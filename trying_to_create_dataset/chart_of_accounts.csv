@@ -1,0 +1,40 @@
+Account Name,Account Type,Account Code,Description
+Cash - HDFC Bank Current A/c,Bank,1010,Primary business current account
+Cash - ICICI Bank Savings A/c,Bank,1020,Business savings account
+Accounts Receivable (Sundry Debtors),Accounts Receivable,1200,Money owed by customers
+Computer Equipment,Fixed Asset,1500,"Laptops, servers, monitors"
+Accum. Depr - Equipment,Fixed Asset,1550,Accumulated depreciation on equipment
+Office Furniture,Fixed Asset,1600,Desks, chairs
+Accum. Depr - Furniture,Fixed Asset,1650,Accumulated depreciation on furniture
+Accounts Payable (Sundry Creditors),Accounts Payable,2000,Money owed to vendors
+Credit Card Payable - Amex,Credit Card,2100,Balance owed on company credit card AMEX-XXXX
+CGST Payable,Other Current Liability,2210,Central GST collected/payable
+SGST Payable,Other Current Liability,2220,State GST collected/payable (Karnataka)
+IGST Payable,Other Current Liability,2230,Integrated GST collected/payable
+TDS Payable,Other Current Liability,2240,Tax Deducted at Source payable
+Loan Payable - Bank of Baroda,Long Term Liability,2500,Loan for business operations
+Director's Capital Account,Equity,3000,Capital contributed by directors/owners
+Director's Drawings Account,Equity,3100,Withdrawals by directors/owners
+Retained Earnings,Equity,3200,Accumulated profits/losses from prior years
+Consulting Revenue,Income,4000,Revenue from hourly and project consulting (SAC 998314)
+Software Sales Revenue,Income,4100,Revenue from selling software licenses (HSN 852380)
+Support & Maintenance Revenue,Income,4200,Revenue from AMC and support contracts (SAC 998313)
+Cost of Goods Sold - Software,Cost of Goods Sold,5000,Cost of software licenses resold
+Advertising & Marketing,Expense,6000,Online ads, campaign management fees
+Bank Charges,Expense,6100,Monthly bank charges, transaction fees
+Depreciation Expense,Expense,6150,Monthly depreciation charge
+Software Subscriptions & Licenses,Expense,6180,"SaaS tools (Zoho, Office 365), Professional Memberships"
+Insurance Expense,Expense,6200,Business liability insurance premiums
+Meals & Entertainment,Expense,6250,Client and team meals (Check GST ITC eligibility)
+Office Supplies & Stationery,Expense,6300,"Pens, paper, general office consumables"
+Courier & Postage,Expense,6350,Shipping and courier charges
+Professional Fees (Legal & Audit),Expense,6400,"Legal, accounting, audit services"
+Rent Expense,Expense,6500,Office rent payment
+Repairs & Maintenance,Expense,6550,"Equipment repairs, office maintenance"
+Subcontractor Charges,Expense,6600,Payments to freelance consultants or firms
+Telephone & Internet Charges,Expense,6650,Business phone lines, broadband internet
+Travel Expense - Domestic,Expense,6700,"Flights, hotels, transportation within India"
+Utilities Expense,Expense,6800,"Electricity (BESCOM), water"
+Interest Expense,Expense,6900,Interest paid on loans or credit cards
+Printing & Stationery,Expense,6910,Bulk printing, business cards etc.
+Staff Welfare Expense,Expense,6920,"Office refreshments, employee welfare activities"

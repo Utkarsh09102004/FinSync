@@ -1,0 +1,72 @@
+Expense Date,Expense Account,Vendor Name,Paid Through Account,Amount (INR),Description,GST Claimable (Y/N)
+2023-04-03,Meals & Entertainment,,Credit Card Payable - Amex,2500.00,Team Lunch,N
+2023-04-08,Office Supplies & Stationery,Premier Office Supplies,Cash - HDFC Bank Current A/c,1800.00,Urgent stationery purchase,Y
+2023-04-15,Meals & Entertainment,,Credit Card Payable - Amex,4500.00,Client Lunch Meeting - Delta,N
+2023-04-17,Travel Expense - Domestic,,Credit Card Payable - Amex,1200.00,Taxi fare for client meeting (Ola/Uber),Y
+2023-04-22,Travel Expense - Domestic,Indian Railways (IRCTC),Credit Card Payable - Amex,8500.00,Train tickets for Pune meeting,Y
+2023-04-23,Travel Expense - Domestic,Hotel Taj Pune,Credit Card Payable - Amex,15600.00,Hotel stay in Pune,Y
+2023-04-24,Meals & Entertainment,,Credit Card Payable - Amex,6800.00,Dinner with Beta Tech team Pune,N
+2023-04-26,Courier & Postage,Local Courier Service,Cash - HDFC Bank Current A/c,850.00,Shipping documents to Alpha,N
+2023-04-30,Bank Charges,,Cash - HDFC Bank Current A/c,590.00,Monthly Bank Charges Apr'23 (incl GST),Y
+2023-04-30,Interest Expense,,Credit Card Payable - Amex,1250.00,Interest Charge on CC Statement Apr,N
+2023-05-02,Software Subscriptions & Licenses,Zoho Corporation,Credit Card Payable - Amex,15500.00,Zoho One Subscription May'23,Y
+2023-05-05,Meals & Entertainment,,Cash - HDFC Bank Current A/c,1100.00,Coffee Meeting with prospect,N
+2023-05-09,Repairs & Maintenance,Local IT Repair Shop,Cash - HDFC Bank Current A/c,6500.00,Office Printer Repair,Y
+2023-05-12,Office Supplies & Stationery,Premier Office Supplies,Credit Card Payable - Amex,3200.00,Quick supply run May,Y
+2023-05-14,Staff Welfare Expense,,Credit Card Payable - Amex,4000.00,Office refreshments May,N
+2023-05-16,Travel Expense - Domestic,,Credit Card Payable - Amex,800.00,Parking fee MG Road meeting,Y
+2023-05-20,Software Subscriptions & Licenses,Microsoft India,Credit Card Payable - Amex,9900.00,Office 365 Subscription May'23,Y
+2023-05-23,Meals & Entertainment,,Cash - HDFC Bank Current A/c,2800.00,Team breakfast May,N
+2023-05-28,Bank Charges,,Cash - HDFC Bank Current A/c,850.00,NEFT/RTGS Charges May'23 (incl GST),Y
+2023-05-31,Interest Expense,,Credit Card Payable - Amex,1400.00,Interest Charge on CC Statement May,N
+2023-06-01,Travel Expense - Domestic,Indigo Airlines,Credit Card Payable - Amex,14500.00,Flight to Delhi Conference,Y
+2023-06-02,Travel Expense - Domestic,Hotel Leela Delhi,Credit Card Payable - Amex,22500.00,Hotel for Conference Delhi (2 nights),Y
+2023-06-03,Meals & Entertainment,,Credit Card Payable - Amex,8800.00,Conference related meals Delhi,N
+2023-06-04,Travel Expense - Domestic,,Credit Card Payable - Amex,2100.00,Taxi fares during conference Delhi,Y
+2023-06-05,Software Subscriptions & Licenses,LinkedIn Sales Navigator,Credit Card Payable - Amex,6000.00,Quarterly Subscription,Y
+2023-06-07,Meals & Entertainment,,Cash - HDFC Bank Current A/c,950.00,Client Coffee - Gamma Consulting,N
+2023-06-11,Printing & Stationery,Local Print Shop,Credit Card Payable - Amex,7500.00,Printing marketing brochures,Y
+2023-06-13,Repairs & Maintenance,Urban Company,Cash - HDFC Bank Current A/c,2500.00,Office AC Service,Y
+2023-06-15,Meals & Entertainment,,Credit Card Payable - Amex,7200.00,Team celebration lunch Jun,N
+2023-06-18,Travel Expense - Domestic,,Credit Card Payable - Amex,650.00,Toll charges business travel NICE Road,Y
+2023-06-20,Software Subscriptions & Licenses,NASSCOM,NEFT,15000.00,Annual Membership Fee,Y
+2023-06-22,Courier & Postage,DTDC Courier,Credit Card Payable - Amex,1300.00,Urgent document delivery Chennai,Y
+2023-06-25,Meals & Entertainment,,Cash - HDFC Bank Current A/c,3500.00,Working late dinner for team,N
+2023-06-27,Office Supplies & Stationery,Premier Office Supplies,Credit Card Payable - Amex,4800.00,Printer Ink and Paper Jun,Y
+2023-06-30,Bank Charges,,Cash - HDFC Bank Current A/c,620.00,Monthly Bank Charges Jun'23 (incl GST),Y
+2023-06-30,Interest Expense,,Credit Card Payable - Amex,1350.00,Interest Charge on CC Statement Jun,N
+2023-04-10,Meals & Entertainment,,Credit Card Payable - Amex,900.00,Coffee with Jane Doe Consulting,N
+2023-04-20,Office Supplies & Stationery,,Cash - HDFC Bank Current A/c,750.00,Envelopes and stamps Apr,Y
+2023-05-10,Travel Expense - Domestic,,Credit Card Payable - Amex,300.00,Parking at client site Alpha Solutions,Y
+2023-05-25,Meals & Entertainment,,Credit Card Payable - Amex,5200.00,Client Dinner - Epsilon Systems,N
+2023-06-10,Office Supplies & Stationery,,Credit Card Payable - Amex,2100.00,Monitor Cleaning Wipes and Keyboard Cleaner,Y
+2023-06-25,Travel Expense - Domestic,,Cash - HDFC Bank Current A/c,450.00,BMTC Bus fare for local meeting,N
+2023-04-25,Bank Charges,,Cash - HDFC Bank Current A/c,118.00,ATM Withdrawal Fee (incl GST),Y
+2023-05-15,Software Subscriptions & Licenses,Dropbox India,Credit Card Payable - Amex,8500.00,Annual Subscription,Y
+2023-06-15,Software Subscriptions & Licenses,Adobe India,Credit Card Payable - Amex,4500.00,Creative Cloud Monthly Fee,Y
+2023-04-18,Meals & Entertainment,,Cash - HDFC Bank Current A/c,1400.00,Lunch purchased during errands,N
+2023-05-22,Repairs & Maintenance,,Credit Card Payable - Amex,3500.00,Purchase replacement mouse & keyboard,Y
+2023-06-14,Meals & Entertainment,,Credit Card Payable - Amex,6800.00,Lunch with Khaitan & Co team,N
+2023-04-09,Office Supplies & Stationery,,Credit Card Payable - Amex,1500.00,Calendar and Planner 23-24,Y
+2023-05-19,Courier & Postage,,Cash - HDFC Bank Current A/c,400.00,Mailing payment cheque,N
+2023-06-19,Travel Expense - Domestic,,Credit Card Payable - Amex,2500.00,Fuel for business related driving,Y
+2023-06-28,Staff Welfare Expense,,Cash - HDFC Bank Current A/c,3000.00,Team outing contribution,N
+2023-07-03,Meals & Entertainment,,Credit Card Payable - Amex,2800.00,Team Lunch Jul,N
+2023-07-08,Office Supplies & Stationery,Premier Office Supplies,Cash - HDFC Bank Current A/c,2100.00,Stationery purchase Jul,Y
+2023-07-10,Meals & Entertainment,,Credit Card Payable - Amex,3200.00,Client Dinner - Epsilon Systems,N
+2023-07-15,Travel Expense - Domestic,,Credit Card Payable - Amex,1800.00,Taxi fare for client meeting (Ola/Uber),Y
+2023-07-20,Software Subscriptions & Licenses,Microsoft India,Credit Card Payable - Amex,10500.00,Office 365 Subscription Jul'23,Y
+2023-07-23,Meals & Entertainment,,Cash - HDFC Bank Current A/c,2900.00,Team breakfast Jul,N
+2023-07-28,Bank Charges,,Cash - HDFC Bank Current A/c,1250.00,NEFT/RTGS Charges Jul'23 (incl GST),Y
+2023-07-31,Interest Expense,,Credit Card Payable - Amex,1450.00,Interest Charge on CC Statement Jul,N
+2023-08-01,Travel Expense - Domestic,Indigo Airlines,Credit Card Payable - Amex,15500.00,Flight to Mumbai Conference,Y
+2023-08-02,Travel Expense - Domestic,Hotel Taj Mumbai,Credit Card Payable - Amex,23500.00,Hotel for Conference Mumbai (2 nights),Y
+2023-08-03,Meals & Entertainment,,Credit Card Payable - Amex,9500.00,Conference related meals Mumbai,N
+2023-08-05,Software Subscriptions & Licenses,LinkedIn Sales Navigator,Credit Card Payable - Amex,7000.00,Quarterly Subscription,Y
+2023-08-07,Meals & Entertainment,,Cash - HDFC Bank Current A/c,1100.00,Client Coffee - Gamma Consulting,N
+2023-08-11,Printing & Stationery,Local Print Shop,Credit Card Payable - Amex,8500.00,Printing marketing brochures,Y
+
+
+
+
+

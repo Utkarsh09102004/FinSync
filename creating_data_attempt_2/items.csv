@@ -1,0 +1,10 @@
+Item Name,SKU,HSN/SAC,Description,Rate,Product Type,Account,Usage unit,Purchase Description,Purchase Rate,Item Type,Purchase Account
+Web Development Service,,998314,Web dev services sold,50000,Service,Service Revenue,Hr,Web dev services purchased,30000,Sales and Purchases,Consulting Fees
+Graphic Design Package,,998313,Design package sold,15000,Service,Service Revenue,Pkg,Design package purchased,8000,Sales and Purchases,Consulting Fees
+IT Support - Monthly Retainer,,998315,Monthly IT support sold,25000,Service,Service Revenue,Month,Monthly IT support purchased,15000,Sales and Purchases,Consulting Fees
+Laptop Model X,LPTP-X,847130,Standard Laptop,65000,Goods,Sales,Nos,Standard Laptop Purchase,55000,Sales and Purchases,Purchases
+Office Stationery Set,STAT-SET,960810,Basic stationery kit,500,Goods,Sales,Set,Basic stationery purchase,350,Sales and Purchases,Office Supplies Expense
+Cloud Hosting - Annual,,998315,Annual cloud hosting sold,12000,Service,Service Revenue,Year,Annual cloud hosting purchased,9000,Sales and Purchases,Consulting Fees
+Business Consulting Hour,CONS-HR,998311,Consulting service hour sold,3000,Service,Service Revenue,Hr,,,,Sales Only,
+Printer Cartridge,CART-INK,844399,Inkjet printer cartridge,1200,Goods,Sales,Nos,Inkjet cartridge purchase,900,Sales and Purchases,Office Supplies Expense
+Utilities Expense,,,Utility Bill Entry,0,Service,,,,,,Purchase Only,Utilities Expense

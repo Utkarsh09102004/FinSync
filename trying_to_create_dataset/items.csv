@@ -1,0 +1,9 @@
+Name,SKU,Description,Selling Price,Sales Account,Purchase Price,Purchase Account,Type,HSN/SAC Code
+Consulting Hour,CON-HR-IN,Standard hourly consulting rate,7500.00,Consulting Revenue,0.00,,Service,998314
+Project Retainer Fee,PROJ-RET-IN,Monthly project retainer fee,150000.00,Consulting Revenue,0.00,,Service,998314
+Software License - Brand X,SW-LIC-X,"License for Brand X Software Suite, single user",25000.00,Software Sales Revenue,15000.00,Cost of Goods Sold - Software,Goods,852380
+Premium Support Contract,SUP-PREM-IN,Monthly premium support contract (AMC),20000.00,Support & Maintenance Revenue,0.00,,Service,998313
+Initial Project Setup,SETUP-FEE-IN,One-time project setup and configuration fee,50000.00,Consulting Revenue,0.00,,Service,998314
+Custom Development Hour,DEV-HR-IN,Hourly rate for custom software development,10000.00,Consulting Revenue,0.00,,Service,998314
+Basic Support Contract,SUP-BASIC-IN,Monthly basic support contract (AMC),8000.00,Support & Maintenance Revenue,0.00,,Service,998313
+Network Switch - Resale,HW-NSW-R,Resold Network Switch Model Y,18000.00,Software Sales Revenue,11000.00,Cost of Goods Sold - Software,Goods,851762

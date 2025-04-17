@@ -1,0 +1,72 @@
+Expense Date,Expense Account,Vendor Name,Reference#,Amount,Destination of Supply,Source of Supply,GST Treatment,GST Identification Number (GSTIN),Tax Name,Tax Type,Tax Percentage,Is Inclusive Tax,ITC Eligibility,HSN/SAC,Paid Through
+03-04-2024,Office Supplies,Petty Cash Vendor,,500,29,29,business_unregistered,,,,,,FALSE,Ineligible,,Petty Cash
+04-04-2024,Bank Fees,NULL,,250,29,29,business_unregistered,,,,,,FALSE,Ineligible,,HDFC Bank A/C XXXX1234
+10-04-2024,Travel Expense - Domestic,Petty Cash Vendor,,1200,29,29,business_unregistered,,,,,,FALSE,Ineligible,,Petty Cash
+15-04-2024,Office Supplies,,,2000,29,29,business_unregistered,,,,,,FALSE,Eligible,,HDFC Bank A/C XXXX1234
+20-04-2024,Utilities Expense,Petty Cash Vendor,,1500,29,29,business_unregistered,,,,,,FALSE,Ineligible,,Petty Cash
+# Reverted Paid Through for this line, HSN removed
+25-04-2024,Advertising and Marketing,Petty Cash Vendor,,3000,29,29,business_unregistered,,,,,,FALSE,Ineligible,,HDFC Bank A/C XXXX1234
+30-04-2024,Salaries and Wages,NULL,,250000,29,29,business_unregistered,,,,,,FALSE,Ineligible,,HDFC Bank A/C XXXX1234
+02-05-2024,Office Supplies,Petty Cash Vendor,,600,29,29,business_unregistered,,,,,,FALSE,Ineligible,,Petty Cash
+05-05-2024,Bank Fees,NULL,,280,29,29,business_unregistered,,,,,,FALSE,Ineligible,,HDFC Bank A/C XXXX1234
+12-05-2024,Travel Expense - Domestic,Petty Cash Vendor,,1800,29,29,business_unregistered,,,,,,FALSE,Ineligible,,Petty Cash
+18-05-2024,Office Supplies,,,2500,29,29,business_unregistered,,,,,,FALSE,Eligible,,HDFC Bank A/C XXXX1234
+22-05-2024,Utilities Expense,Petty Cash Vendor,,1650,29,29,business_unregistered,,,,,,FALSE,Ineligible,,Petty Cash
+# Reverted Paid Through for this line, HSN removed
+28-05-2024,Advertising and Marketing,Petty Cash Vendor,,3500,29,29,business_unregistered,,,,,,FALSE,Ineligible,,HDFC Bank A/C XXXX1234
+31-05-2024,Salaries and Wages,NULL,,255000,29,29,business_unregistered,,,,,,FALSE,Ineligible,,HDFC Bank A/C XXXX1234
+03-06-2024,Office Supplies,Petty Cash Vendor,,550,29,29,business_unregistered,,,,,,FALSE,Ineligible,,Petty Cash
+06-06-2024,Bank Fees,NULL,,260,29,29,business_unregistered,,,,,,FALSE,Ineligible,,HDFC Bank A/C XXXX1234
+11-06-2024,Travel Expense - Domestic,Petty Cash Vendor,,1400,29,29,business_unregistered,,,,,,FALSE,Ineligible,,Petty Cash
+17-06-2024,Office Supplies,,,2200,29,29,business_unregistered,,,,,,FALSE,Eligible,,HDFC Bank A/C XXXX1234
+21-06-2024,Utilities Expense,Petty Cash Vendor,,1580,29,29,business_unregistered,,,,,,FALSE,Ineligible,,Petty Cash
+# Reverted Paid Through for this line, HSN removed
+27-06-2024,Advertising and Marketing,Petty Cash Vendor,,3200,29,29,business_unregistered,,,,,,FALSE,Ineligible,,HDFC Bank A/C XXXX1234
+30-06-2024,Salaries and Wages,NULL,,260000,29,29,business_unregistered,,,,,,FALSE,Ineligible,,HDFC Bank A/C XXXX1234
+02-07-2024,Office Supplies,Petty Cash Vendor,,650,29,29,business_unregistered,,,,,,FALSE,Ineligible,,Petty Cash
+04-07-2024,Bank Fees,NULL,,275,29,29,business_unregistered,,,,,,FALSE,Ineligible,,HDFC Bank A/C XXXX1234
+09-07-2024,Travel Expense - Domestic,Petty Cash Vendor,,1950,29,29,business_unregistered,,,,,,FALSE,Ineligible,,Petty Cash
+16-07-2024,Office Supplies,,,2800,29,29,business_unregistered,,,,,,FALSE,Eligible,,HDFC Bank A/C XXXX1234
+20-07-2024,Utilities Expense,Petty Cash Vendor,,1720,29,29,business_unregistered,,,,,,FALSE,Ineligible,,Petty Cash
+# Reverted Paid Through for this line, HSN removed
+26-07-2024,Advertising and Marketing,Petty Cash Vendor,,3800,29,29,business_unregistered,,,,,,FALSE,Ineligible,,HDFC Bank A/C XXXX1234
+31-07-2024,Salaries and Wages,NULL,,265000,29,29,business_unregistered,,,,,,FALSE,Ineligible,,HDFC Bank A/C XXXX1234
+01-08-2024,Office Supplies,Petty Cash Vendor,,580,29,29,business_unregistered,,,,,,FALSE,Ineligible,,Petty Cash
+05-08-2024,Bank Fees,NULL,,290,29,29,business_unregistered,,,,,,FALSE,Ineligible,,HDFC Bank A/C XXXX1234
+13-08-2024,Travel Expense - Domestic,Petty Cash Vendor,,1600,29,29,business_unregistered,,,,,,FALSE,Ineligible,,Petty Cash
+19-08-2024,Office Supplies,,,2400,29,29,business_unregistered,,,,,,FALSE,Eligible,,HDFC Bank A/C XXXX1234
+23-08-2024,Utilities Expense,Petty Cash Vendor,,1630,29,29,business_unregistered,,,,,,FALSE,Ineligible,,Petty Cash
+# Reverted Paid Through for this line, HSN removed
+29-08-2024,Advertising and Marketing,Petty Cash Vendor,,3400,29,29,business_unregistered,,,,,,FALSE,Ineligible,,HDFC Bank A/C XXXX1234
+31-08-2024,Salaries and Wages,NULL,,270000,29,29,business_unregistered,,,,,,FALSE,Ineligible,,HDFC Bank A/C XXXX1234
+02-09-2024,Office Supplies,Petty Cash Vendor,,620,29,29,business_unregistered,,,,,,FALSE,Ineligible,,Petty Cash
+05-09-2024,Bank Fees,NULL,,285,29,29,business_unregistered,,,,,,FALSE,Ineligible,,HDFC Bank A/C XXXX1234
+10-09-2024,Travel Expense - Domestic,Petty Cash Vendor,,2100,29,29,business_unregistered,,,,,,FALSE,Ineligible,,Petty Cash
+18-09-2024,Office Supplies,,,3000,29,29,business_unregistered,,,,,,FALSE,Eligible,,HDFC Bank A/C XXXX1234
+22-09-2024,Utilities Expense,Petty Cash Vendor,,1780,29,29,business_unregistered,,,,,,FALSE,Ineligible,,Petty Cash
+# Reverted Paid Through for this line, HSN removed
+28-09-2024,Advertising and Marketing,Petty Cash Vendor,,4000,29,29,business_unregistered,,,,,,FALSE,Ineligible,,HDFC Bank A/C XXXX1234
+30-09-2024,Salaries and Wages,NULL,,275000,29,29,business_unregistered,,,,,,FALSE,Ineligible,,HDFC Bank A/C XXXX1234
+03-10-2024,Office Supplies,Petty Cash Vendor,,530,29,29,business_unregistered,,,,,,FALSE,Ineligible,,Petty Cash
+07-10-2024,Bank Fees,NULL,,300,29,29,business_unregistered,,,,,,FALSE,Ineligible,,HDFC Bank A/C XXXX1234
+14-10-2024,Travel Expense - Domestic,Petty Cash Vendor,,1700,29,29,business_unregistered,,,,,,FALSE,Ineligible,,Petty Cash
+21-10-2024,Office Supplies,,,2600,29,29,business_unregistered,,,,,,FALSE,Eligible,,HDFC Bank A/C XXXX1234
+25-10-2024,Utilities Expense,Petty Cash Vendor,,1680,29,29,business_unregistered,,,,,,FALSE,Ineligible,,Petty Cash
+# Reverted Paid Through for this line, HSN removed
+30-10-2024,Advertising and Marketing,Petty Cash Vendor,,3600,29,29,business_unregistered,,,,,,FALSE,Ineligible,,HDFC Bank A/C XXXX1234
+31-10-2024,Salaries and Wages,NULL,,280000,29,29,business_unregistered,,,,,,FALSE,Ineligible,,HDFC Bank A/C XXXX1234
+01-11-2024,Office Supplies,Petty Cash Vendor,,680,29,29,business_unregistered,,,,,,FALSE,Ineligible,,Petty Cash
+06-11-2024,Bank Fees,NULL,,295,29,29,business_unregistered,,,,,,FALSE,Ineligible,,HDFC Bank A/C XXXX1234
+15-11-2024,Travel Expense - Domestic,Petty Cash Vendor,,2200,29,29,business_unregistered,,,,,,FALSE,Ineligible,,Petty Cash
+22-11-2024,Office Supplies,,,3200,29,29,business_unregistered,,,,,,FALSE,Eligible,,HDFC Bank A/C XXXX1234
+28-11-2024,Utilities Expense,Petty Cash Vendor,,1850,29,29,business_unregistered,,,,,,FALSE,Ineligible,,Petty Cash
+# Reverted Paid Through for this line, HSN removed
+29-11-2024,Advertising and Marketing,Petty Cash Vendor,,4200,29,29,business_unregistered,,,,,,FALSE,Ineligible,,HDFC Bank A/C XXXX1234
+30-11-2024,Salaries and Wages,NULL,,285000,29,29,business_unregistered,,,,,,FALSE,Ineligible,,HDFC Bank A/C XXXX1234
+02-12-2024,Office Supplies,Petty Cash Vendor,,720,29,29,business_unregistered,,,,,,FALSE,Ineligible,,Petty Cash
+05-12-2024,Bank Fees,NULL,,310,29,29,business_unregistered,,,,,,FALSE,Ineligible,,HDFC Bank A/C XXXX1234
+12-12-2024,Travel Expense - Domestic,Petty Cash Vendor,,2500,29,29,business_unregistered,,,,,,FALSE,Ineligible,,Petty Cash
+31-12-2024,Salaries and Wages,NULL,,290000,29,29,business_unregistered,,,,,,FALSE,Ineligible,,HDFC Bank A/C XXXX1234
+31-01-2025,Salaries and Wages,NULL,,295000,29,29,business_unregistered,,,,,,FALSE,Ineligible,,HDFC Bank A/C XXXX1234
+28-02-2025,Salaries and Wages,NULL,,300000,29,29,business_unregistered,,,,,,FALSE,Ineligible,,HDFC Bank A/C XXXX1234
+31-03-2025,Salaries and Wages,NULL,,305000,29,29,business_unregistered,,,,,,FALSE,Ineligible,,HDFC Bank A/C XXXX1234

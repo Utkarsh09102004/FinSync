@@ -1,0 +1,8 @@
+Customer Name,Invoice Number,Invoice Date,Due Date,Place of Supply,Item Name,Quantity,Rate,Tax,Tax Exemption Reason,Amount,Status
+Alpha Solutions Pvt Ltd,INV-2023-98,2023-03-15,2023-04-14,Karnataka,Consulting Hour,20,7500,GST18 [18%],,150000,Open
+Beta Tech Services LLP,INV-2023-99,2023-03-20,2023-04-19,Maharashtra,Project Retainer Fee,1,150000,,SEZ Supplies,150000,Open
+Gamma Consulting,INV-2023-96,2023-03-05,2023-04-04,Tamil Nadu,Software License - Brand X,2,25000,GST18 [18%],,50000,Open
+Delta Digital Works,INV-2023-95,2023-02-28,2023-03-30,Karnataka,Consulting Hour,10,7500,,SEZ Supplies,75000,Open
+Epsilon Systems India,INV-2023-97,2023-03-10,2023-04-09,Haryana,Initial Project Setup,1,50000,,Exempt Service,50000,Open
+Zeta Innovations,INV-2023-94,2023-02-25,2023-03-27,Telangana,Custom Development Hour,15,10000,GST18 [18%],,150000,Open
+Omega Software Ltd,INV-2023-93,2023-02-15,2023-03-17,Karnataka,Basic Support Contract,1,8000,,Exempt Service,8000,Open

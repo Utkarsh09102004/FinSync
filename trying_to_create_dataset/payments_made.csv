@@ -1,0 +1,56 @@
+Vendor Name,Payment #,Payment Date,Payment Mode,Amount Paid (INR),Paid Through Account,Bill(s) Paid
+Cloud Hosting Services India,PMT-MADE-001,2023-04-08,Credit Card,11800.00,Credit Card Payable - Amex,CHSI-MAR23 // 10K + 18% GST
+RMZ Corp (Office Rent),PMT-MADE-002,2023-04-02,NEFT,141600.00,Cash - HDFC Bank Current A/c,RMZ-MAR23 // 120K + 18% GST
+Adroit Marketing Agency,PMT-MADE-003,2023-04-04,RTGS,59000.00,Cash - HDFC Bank Current A/c,AMA-MAR23 // 50K + 18% GST
+Jane Doe Consulting,PMT-MADE-004,2023-04-17,NEFT,75000.00,Cash - HDFC Bank Current A/c,JD-INV-12 // Unreg, No GST Input
+Tech Data India,PMT-MADE-005,2023-04-14,Credit Card,70800.00,Credit Card Payable - Amex,TDI-9876 // 60K + 18% GST
+Bajaj Allianz General Insurance,PMT-MADE-006,2023-04-19,NEFT,35400.00,Cash - HDFC Bank Current A/c,BA-MAR23 // 30K + 18% GST
+Premier Office Supplies,PMT-MADE-007,2023-04-11,Credit Card,17700.00,Credit Card Payable - Amex,POS-MAR23 // 15K + 18% GST
+RMZ Corp (Office Rent),PMT-MADE-008,2023-04-30,NEFT,141600.00,Cash - HDFC Bank Current A/c,RMZ-APR23 // 120K + 18% GST
+Adroit Marketing Agency,PMT-MADE-009,2023-05-05,RTGS,59000.00,Cash - HDFC Bank Current A/c,AMA-APR23 // 50K + 18% GST
+Cloud Hosting Services India,PMT-MADE-010,2023-05-10,Credit Card,11800.00,Credit Card Payable - Amex,CHSI-APR23 // 10K + 18% GST
+Jane Doe Consulting,PMT-MADE-011,2023-05-15,NEFT,90000.00,Cash - HDFC Bank Current A/c,JD-INV-13 // Unreg, No GST Input
+Airtel Business,PMT-MADE-012,2023-05-08,NEFT,8850.00,Cash - HDFC Bank Current A/c,AIRTEL-APR23 // 7.5K + 18% GST
+BESCOM,PMT-MADE-013,2023-05-10,UPI,18500.00,Cash - HDFC Bank Current A/c,BESCOM-APR23 // Utilities Exempt/Diff Rate - Check Bill
+Premier Office Supplies,PMT-MADE-014,2023-05-22,Credit Card,8260.00,Credit Card Payable - Amex,POS-APR23 // 7K + 18% GST
+Khaitan & Co (Legal),PMT-MADE-015,2023-05-25,RTGS,47200.00,Cash - HDFC Bank Current A/c,KC-001 // 40K + 18% GST
+Tech Data India,PMT-MADE-016,2023-05-28,Credit Card,88500.00,Credit Card Payable - Amex,TDI-1001 // 75K + 18% GST
+Bajaj Allianz General Insurance,PMT-MADE-017,2023-05-30,NEFT,11800.00,Cash - HDFC Bank Current A/c,BA-APR23 // 10K + 18% GST
+RMZ Corp (Office Rent),PMT-MADE-018,2023-05-31,NEFT,141600.00,Cash - HDFC Bank Current A/c,RMZ-MAY23 // 120K + 18% GST
+Local Courier Service,PMT-MADE-019,2023-06-02,Cash,5500.00,Cash - HDFC Bank Current A/c,LCS-001 // Assume Unreg
+Adroit Marketing Agency,PMT-MADE-020,2023-06-04,RTGS,64900.00,Cash - HDFC Bank Current A/c,AMA-MAY23 // 55K + 18% GST
+Cloud Hosting Services India,PMT-MADE-021,2023-06-09,Credit Card,11800.00,Credit Card Payable - Amex,CHSI-MAY23 // 10K + 18% GST
+Jane Doe Consulting,PMT-MADE-022,2023-06-14,NEFT,110000.00,Cash - HDFC Bank Current A/c,JD-INV-14 // Unreg, No GST Input
+Airtel Business,PMT-MADE-023,2023-06-07,NEFT,9204.00,Cash - HDFC Bank Current A/c,AIRTEL-MAY23 // 7.8K + 18% GST
+BESCOM,PMT-MADE-024,2023-06-09,UPI,21000.00,Cash - HDFC Bank Current A/c,BESCOM-MAY23 // Utilities Exempt/Diff Rate - Check Bill
+Premier Office Supplies,PMT-MADE-025,2023-06-21,Credit Card,11210.00,Credit Card Payable - Amex,POS-MAY23 // 9.5K + 18% GST
+Khaitan & Co (Legal),PMT-MADE-026,2023-06-24,RTGS,88500.00,Cash - HDFC Bank Current A/c,KC-002 // 75K + 18% GST
+Tech Data India,PMT-MADE-027,2023-06-27,Credit Card,64900.00,Credit Card Payable - Amex,TDI-1002 // 55K + 18% GST
+RMZ Corp (Office Rent),PMT-MADE-028,2023-06-30,NEFT,141600.00,Cash - HDFC Bank Current A/c,RMZ-JUN23 // 120K + 18% GST
+Local Courier Service,PMT-MADE-029,2023-07-03,Cash,4800.00,Cash - HDFC Bank Current A/c,LCS-002 // Assume Unreg
+Adroit Marketing Agency,PMT-MADE-030,2023-07-05,RTGS,61360.00,Cash - HDFC Bank Current A/c,AMA-JUN23 // 52K + 18% GST
+Cloud Hosting Services India,PMT-MADE-031,2023-07-10,Credit Card,11800.00,Credit Card Payable - Amex,CHSI-JUN23 // 10K + 18% GST
+Jane Doe Consulting,PMT-MADE-032,2023-07-15,NEFT,80000.00,Cash - HDFC Bank Current A/c,JD-INV-15 // Unreg, No GST Input
+Airtel Business,PMT-MADE-033,2023-07-08,NEFT,8968.00,Cash - HDFC Bank Current A/c,AIRTEL-JUN23 // 7.6K + 18% GST
+BESCOM,PMT-MADE-034,2023-07-10,UPI,19500.00,Cash - HDFC Bank Current A/c,BESCOM-JUN23 // Utilities Exempt/Diff Rate - Check Bill
+Premier Office Supplies,PMT-MADE-035,2023-07-22,Credit Card,7080.00,Credit Card Payable - Amex,POS-JUN23 // 6K + 18% GST
+Tech Data India,PMT-MADE-036,2023-07-28,Credit Card,106200.00,Credit Card Payable - Amex,TDI-1003 // 90K + 18% GST
+Bajaj Allianz General Insurance,PMT-MADE-037,2023-07-30,NEFT,11800.00,Cash - HDFC Bank Current A/c,BA-JUN23 // 10K + 18% GST
+Jane Doe Consulting,PMT-MADE-038,2023-07-25,NEFT,25000.00,Cash - HDFC Bank Current A/c,JD-INV-16 // Unreg, No GST Input
+Cloud Hosting Services India,PMT-MADE-039,2023-05-15,Credit Card,4720.00,Credit Card Payable - Amex,CHSI-ADDL01 // 4K + 18% GST
+Adroit Marketing Agency,PMT-MADE-040,2023-06-19,RTGS,23600.00,Cash - HDFC Bank Current A/c,AMA-ADDL01 // 20K + 18% GST
+Premier Office Supplies,PMT-MADE-041,2023-05-29,Credit Card,33040.00,Credit Card Payable - Amex,POS-APR23B // 28K + 18% GST
+Local Courier Service,PMT-MADE-042,2023-06-14,Cash,1500.00,Cash - HDFC Bank Current A/c,LCS-001B // Assume Unreg
+Khaitan & Co (Legal),PMT-MADE-043,2023-05-30,RTGS,5900.00,Cash - HDFC Bank Current A/c,KC-001B // 5K + 18% GST
+Tech Data India,PMT-MADE-044,2023-05-15,Credit Card,51920.00,Credit Card Payable - Amex,TDI-1001B // 44K + 18% GST
+BESCOM,PMT-MADE-045,2023-07-05,UPI,-1500.00,Cash - HDFC Bank Current A/c,BESCOM-ADJ01 // Credit Adj.
+Airtel Business,PMT-MADE-046,2023-06-24,NEFT,2950.00,Cash - HDFC Bank Current A/c,AIRTEL-ADDL01 // 2.5K + 18% GST
+Bajaj Allianz General Insurance,PMT-MADE-047,2023-07-15,NEFT,3540.00,Cash - HDFC Bank Current A/c,BA-ADDL01 // 3K + 18% GST
+Cloud Hosting Services India,PMT-MADE-048,2023-07-20,Credit Card,7080.00,Credit Card Payable - Amex,CHSI-ADDL02 // 6K + 18% GST
+Jane Doe Consulting,PMT-MADE-049,2023-05-30,NEFT,45000.00,Cash - HDFC Bank Current A/c,JD-INV-17 // Unreg, No GST Input
+Adroit Marketing Agency,PMT-MADE-050,2023-07-12,RTGS,14160.00,Cash - HDFC Bank Current A/c,AMA-ADDL02 // 12K + 18% GST
+Premier Office Supplies,PMT-MADE-051,2023-07-18,Credit Card,10030.00,Credit Card Payable - Amex,POS-JUN23B // 8.5K + 18% GST
+Local Courier Service,PMT-MADE-052,2023-07-25,Cash,7000.00,Cash - HDFC Bank Current A/c,LCS-002B // Assume Unreg
+Khaitan & Co (Legal),PMT-MADE-053,2023-06-09,RTGS,23600.00,Cash - HDFC Bank Current A/c,KC-002B // 20K + 18% GST
+// Start Q2 (Jul-Sep 2023) - Add 50+ more similar entries with dates in Jul, Aug, Sep 2023
+... (Continue generating rows up to PMT-MADE-120 or more, matching bill payments)

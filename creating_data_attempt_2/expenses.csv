@@ -1,0 +1,76 @@
+Expense Date,Expense Account,Vendor Name,Amount,Paid Through,Reference#
+2024-04-05,Rent Expense,Prime Properties,40000,ICICI Bank,RentApr24
+2024-04-10,Utilities Expense,Connect Telecom,3500,HDFC Bank,TelBillApr24
+2024-04-15,Office Supplies Expense,Epsilon Office Needs,1200,Cash on Hand,SuppliesApr1
+2024-04-25,Travel Expense,,2800,Cash on Hand,ClientVisitMum
+2024-04-30,Salaries Expense,,75000,ICICI Bank,SalApr24
+2024-05-05,Rent Expense,Prime Properties,40000,ICICI Bank,RentMay24
+2024-05-10,Utilities Expense,Connect Telecom,3650,HDFC Bank,TelBillMay24
+2024-05-12,Travel Expense,,5200,Cash on Hand,TravelClientMeetDel
+2024-05-15,Office Supplies Expense,Epsilon Office Needs,1800,Cash on Hand,SuppliesMay1
+2024-05-22,Consulting Fees,Anil Kumar Freelancer,5000,HDFC Bank,ConsultMay24
+2024-05-31,Salaries Expense,,75000,ICICI Bank,SalMay24
+2024-06-05,Rent Expense,Prime Properties,40000,ICICI Bank,RentJun24
+2024-06-10,Utilities Expense,Connect Telecom,3800,HDFC Bank,TelBillJun24
+2024-06-18,Office Supplies Expense,Epsilon Office Needs,2500,ICICI Bank,SuppliesJun1
+2024-06-25,Consulting Fees,Anil Kumar Freelancer,10000,HDFC Bank,ConsultJun24
+2024-06-28,Travel Expense,,4500,Cash on Hand,TravelPuneConf
+2024-06-30,Salaries Expense,,78000,ICICI Bank,SalJun24
+2024-07-05,Rent Expense,Prime Properties,40000,ICICI Bank,RentJul24
+2024-07-10,Utilities Expense,Connect Telecom,3750,HDFC Bank,TelBillJul24
+2024-07-15,Travel Expense,,6500,ICICI Bank,TravelConfBan
+2024-07-20,Office Supplies Expense,Zeta Hardware Mart,950,Cash on Hand,SuppliesJul1
+2024-07-31,Salaries Expense,,78000,ICICI Bank,SalJul24
+2024-08-05,Rent Expense,Prime Properties,40000,ICICI Bank,RentAug24
+2024-08-10,Utilities Expense,Connect Telecom,3900,HDFC Bank,TelBillAug24
+2024-08-18,Consulting Fees,Anil Kumar Freelancer,7000,HDFC Bank,ConsultAug24
+2024-08-25,Office Supplies Expense,Epsilon Office Needs,2100,ICICI Bank,SuppliesAug1
+2024-08-31,Salaries Expense,,78000,ICICI Bank,SalAug24
+2024-09-05,Rent Expense,Prime Properties,40000,ICICI Bank,RentSep24
+2024-09-10,Utilities Expense,Connect Telecom,3850,HDFC Bank,TelBillSep24
+2024-09-15,Travel Expense,,3200,Cash on Hand,LocalTravelSep
+2024-09-25,Office Supplies Expense,Zeta Hardware Mart,1100,Cash on Hand,SuppliesSep1
+2024-09-30,Salaries Expense,,80000,ICICI Bank,SalSep24
+2024-10-05,Rent Expense,Prime Properties,40000,ICICI Bank,RentOct24
+2024-10-10,Utilities Expense,Connect Telecom,4100,HDFC Bank,TelBillOct24
+2024-10-16,Office Supplies Expense,Epsilon Office Needs,1500,Cash on Hand,SuppliesOct1
+2024-10-24,Travel Expense,,5800,ICICI Bank,TravelClientHyd
+2024-10-31,Salaries Expense,,80000,ICICI Bank,SalOct24
+2024-11-05,Rent Expense,Prime Properties,42000,ICICI Bank,RentNov24
+2024-11-10,Utilities Expense,Connect Telecom,4050,HDFC Bank,TelBillNov24
+2024-11-15,Consulting Fees,Anil Kumar Freelancer,12000,HDFC Bank,ConsultNov24
+2024-11-22,Office Supplies Expense,Epsilon Office Needs,2300,ICICI Bank,SuppliesNov1
+2024-11-30,Salaries Expense,,80000,ICICI Bank,SalNov24
+2024-12-05,Rent Expense,Prime Properties,42000,ICICI Bank,RentDec24
+2024-12-10,Utilities Expense,Connect Telecom,4250,HDFC Bank,TelBillDec24
+2024-12-15,Travel Expense,,6100,Cash on Hand,TravelConfMum
+2024-12-20,Office Supplies Expense,Zeta Hardware Mart,1300,Cash on Hand,SuppliesDec1
+2024-12-31,Salaries Expense,,82000,ICICI Bank,SalDec24
+2025-01-05,Rent Expense,Prime Properties,42000,ICICI Bank,RentJan25
+2025-01-10,Utilities Expense,Connect Telecom,4200,HDFC Bank,TelBillJan25
+2025-01-18,Office Supplies Expense,Epsilon Office Needs,1900,ICICI Bank,SuppliesJan1
+2025-01-25,Travel Expense,,3500,Cash on Hand,LocalTravelJan
+2025-01-31,Salaries Expense,,82000,ICICI Bank,SalJan25
+2025-02-05,Rent Expense,Prime Properties,42000,ICICI Bank,RentFeb25
+2025-02-10,Utilities Expense,Connect Telecom,4400,HDFC Bank,TelBillFeb25
+2025-02-14,Consulting Fees,Anil Kumar Freelancer,9000,HDFC Bank,ConsultFeb25
+2025-02-20,Office Supplies Expense,Zeta Hardware Mart,1050,Cash on Hand,SuppliesFeb1
+2025-02-28,Salaries Expense,,82000,ICICI Bank,SalFeb25
+2025-03-05,Rent Expense,Prime Properties,42000,ICICI Bank,RentMar25
+2025-03-10,Utilities Expense,Connect Telecom,4350,HDFC Bank,TelBillMar25
+2025-03-15,Travel Expense,,7200,ICICI Bank,TravelClientChe
+2025-03-21,Office Supplies Expense,Epsilon Office Needs,2800,ICICI Bank,SuppliesMar1
+2025-03-25,Consulting Fees,Anil Kumar Freelancer,6500,HDFC Bank,ConsultMar25
+2025-03-31,Salaries Expense,,85000,ICICI Bank,SalMar25
+2024-04-30,Bank Charges,,250,ICICI Bank,BCAPR24
+2024-05-31,Bank Charges,,250,ICICI Bank,BCMAY24
+2024-06-30,Bank Charges,,250,ICICI Bank,BCJUN24
+2024-07-31,Bank Charges,,250,ICICI Bank,BCJUL24
+2024-08-31,Bank Charges,,250,ICICI Bank,BCAUG24
+2024-09-30,Bank Charges,,250,ICICI Bank,BCSEP24
+2024-10-31,Bank Charges,,250,ICICI Bank,BCOCT24
+2024-11-30,Bank Charges,,250,ICICI Bank,BCNOV24
+2024-12-31,Bank Charges,,250,ICICI Bank,BCDEC24
+2025-01-31,Bank Charges,,250,ICICI Bank,BCJAN25
+2025-02-28,Bank Charges,,250,ICICI Bank,BCFEB25
+2025-03-31,Bank Charges,,250,ICICI Bank,BCMAR25

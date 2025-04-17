@@ -1,0 +1,61 @@
+Customer Name,Date,Mode,Amount,Deposit To,Reference Number,Invoice Number,Amount Applied to Invoice,Payment Number Prefix,Payment Number Suffix
+Alpha Solutions Pvt Ltd,2024-04-28,Bank Transfer,50000,ICICI Bank,NEFTALPHA01,INV-0001,50000,,1
+Beta Tech Services,2024-05-04,Bank Transfer,25000,HDFC Bank,IMPSBETA45,INV-0002,25000,,2
+Gamma Innovations,2024-05-24,Cheque,30000,ICICI Bank,CQ123456,INV-0003,30000,,3
+Delta Enterprises,2024-06-01,Bank Transfer,65000,HDFC Bank,RTGSDELTA88,INV-0004,65000,,4
+Riya Sharma Consulting,2024-06-18,Bank Transfer,30000,ICICI Bank,NEFTRIYA06,INV-0005,30000,,5
+Alpha Solutions Pvt Ltd,2024-07-08,Bank Transfer,12000,HDFC Bank,IMPSALPHA07,INV-0006,12000,,6
+Beta Tech Services,2024-07-29,Bank Transfer,25000,ICICI Bank,NEFTBETA77,INV-0007,25000,,7
+Sigma Digital,2024-08-05,Cheque,50000,HDFC Bank,CQ987654,INV-0008,50000,,8
+Gamma Innovations,2024-08-25,Bank Transfer,15000,ICICI Bank,IMPSGAMMA91,INV-0009,15000,,9
+Alpha Solutions Pvt Ltd,2024-09-10,Bank Transfer,15000,HDFC Bank,NEFTALPHA09,INV-0010,15000,,10
+Delta Enterprises,2024-09-24,Bank Transfer,130000,ICICI Bank,RTGSDELTA99,INV-0011,130000,,11
+Beta Tech Services,2024-10-03,Bank Transfer,25000,HDFC Bank,IMPSBETA10,INV-0012,25000,,12
+Riya Sharma Consulting,2024-10-19,Bank Transfer,24000,ICICI Bank,NEFTRIYA10,INV-0013,24000,,13
+Sigma Digital,2024-11-01,Cash,6000,Cash on Hand,CashRecpt01,INV-0014,6000,,14
+Alpha Solutions Pvt Ltd,2024-11-25,Bank Transfer,25000,HDFC Bank,IMPSALPHA11,INV-0015,25000,,15
+Beta Tech Services,2024-11-29,Bank Transfer,25000,ICICI Bank,NEFTBETA11,INV-0016,25000,,16
+Gamma Innovations,2024-12-09,Cheque,12000,HDFC Bank,CQ112233,INV-0017,12000,,17
+Delta Enterprises,2024-12-16,Bank Transfer,66000,ICICI Bank,RTGSDELTA12,INV-0018,66000,,18
+Riya Sharma Consulting,2024-12-24,Bank Transfer,36000,HDFC Bank,NEFTRIYA12,INV-0019,36000,,19
+Alpha Solutions Pvt Ltd,2025-01-01,Bank Transfer,15000,ICICI Bank,IMPSALPHA01,INV-0020,15000,,20
+Beta Tech Services,2025-01-29,Bank Transfer,25000,HDFC Bank,NEFTBETA01,INV-0021,25000,,21
+Sigma Digital,2025-02-03,Cheque,55000,ICICI Bank,CQ445566,INV-0022,55000,,22
+Gamma Innovations,2025-02-11,Cash,10000,Cash on Hand,CashRecpt02,INV-0023,10000,,23
+Alpha Solutions Pvt Ltd,2025-02-19,Bank Transfer,18000,HDFC Bank,IMPSALPHA02,INV-0024,18000,,24
+Delta Enterprises,2025-02-26,Bank Transfer,12000,ICICI Bank,NEFTDELTA02,INV-0025,12000,,25
+Beta Tech Services,2025-03-01,Bank Transfer,25000,HDFC Bank,IMPSBETA03,INV-0026,25000,,26
+Riya Sharma Consulting,2025-03-11,Bank Transfer,15000,ICICI Bank,NEFTRIYA03,INV-0027,15000,,27
+Sigma Digital,2025-03-19,Bank Transfer,45000,HDFC Bank,RTGSSIGMA03,INV-0028,45000,,28
+Alpha Solutions Pvt Ltd,2025-03-24,Cheque,12000,ICICI Bank,CQ778899,INV-0029,12000,,29
+Beta Tech Services,2025-03-29,Bank Transfer,25000,HDFC Bank,NEFTBETA03B,INV-0030,25000,,30
+Gamma Innovations,2024-05-09,Bank Transfer,15000,ICICI Bank,IMPSGAMMA05,INV-0031,15000,,31
+Delta Enterprises,2024-05-19,Cash,9600,Cash on Hand,CashRecpt03,INV-0032,9600,,32
+Riya Sharma Consulting,2024-06-05,Bank Transfer,25000,HDFC Bank,NEFTRIYA06B,INV-0033,25000,,33
+Sigma Digital,2024-06-26,Bank Transfer,15000,ICICI Bank,IMPSSIGMA06,INV-0034,15000,,34
+Alpha Solutions Pvt Ltd,2024-07-15,Bank Transfer,65000,HDFC Bank,RTGSALPHA07,INV-0035,65000,,35
+Beta Tech Services,2024-08-01,Cheque,21000,ICICI Bank,CQ101010,INV-0036,21000,,36
+Gamma Innovations,2024-08-19,Bank Transfer,12000,HDFC Bank,NEFTGAMMA08,INV-0037,12000,,37
+Delta Enterprises,2024-09-04,Bank Transfer,15000,ICICI Bank,IMPSDELTA09,INV-0038,15000,,38
+Riya Sharma Consulting,2024-09-17,Cash,25000,Cash on Hand,CashRecpt04,INV-0039,25000,,39
+Sigma Digital,2024-10-03,Bank Transfer,52000,HDFC Bank,RTGSSIGMA10,INV-0040,52000,,40
+Alpha Solutions Pvt Ltd,2024-10-21,Bank Transfer,30000,ICICI Bank,NEFTALPHA10,INV-0041,30000,,41
+Beta Tech Services,2024-11-03,Cheque,14400,HDFC Bank,CQ202020,INV-0042,14400,,42
+Gamma Innovations,2024-11-20,Bank Transfer,30000,ICICI Bank,IMPSGAMMA11,INV-0043,30000,,43
+Delta Enterprises,2024-12-02,Bank Transfer,65500,HDFC Bank,RTGSDELTA12B,INV-0044,65500,,44
+Riya Sharma Consulting,2024-12-18,Bank Transfer,12000,ICICI Bank,NEFTRIYA12B,INV-0045,12000,,45
+Sigma Digital,2025-01-03,Cash,25000,Cash on Hand,CashRecpt05,INV-0046,25000,,46
+Alpha Solutions Pvt Ltd,2025-01-22,Bank Transfer,55000,HDFC Bank,IMPSALPHA01B,INV-0047,55000,,47
+Beta Tech Services,2025-02-05,Bank Transfer,15000,ICICI Bank,NEFTBETA02,INV-0048,15000,,48
+Gamma Innovations,2025-02-21,Cheque,24000,HDFC Bank,CQ303030,INV-0049,24000,,49
+Delta Enterprises,2025-03-05,Bank Transfer,7500,ICICI Bank,IMPSDELTA03,INV-0050,7500,,50
+Riya Sharma Consulting,2025-03-17,Bank Transfer,7500,HDFC Bank,NEFTRIYA03B,INV-0051,7500,,51
+Sigma Digital,2025-03-26,Cash,66000,Cash on Hand,CashRecpt06,INV-0052,66000,,52
+Alpha Solutions Pvt Ltd,2025-03-31,Bank Transfer,30000,ICICI Bank,IMPSALPHA03,INV-0053,30000,,53
+Beta Tech Services,2025-03-31,Bank Transfer,27500,HDFC Bank,NEFTBETA03C,INV-0054,27500,,54
+Gamma Innovations,2025-03-31,Bank Transfer,15000,ICICI Bank,IMPSGAMMA03,INV-0055,15000,,55
+Delta Enterprises,2025-03-31,Bank Transfer,25000,HDFC Bank,RTGSDELTA03,INV-0056,25000,,56
+Riya Sharma Consulting,2025-03-31,Bank Transfer,12000,ICICI Bank,NEFTRIYA03C,INV-0057,12000,,57
+Sigma Digital,2025-03-31,Bank Transfer,15000,HDFC Bank,IMPSSIGMA03B,INV-0058,15000,,58
+Alpha Solutions Pvt Ltd,2025-03-31,Cash,5000,Cash on Hand,CashRecpt07,INV-0059,5000,,59
+Beta Tech Services,2025-03-31,Bank Transfer,5000,ICICI Bank,NEFTBETA03D,INV-0060,5000,,60

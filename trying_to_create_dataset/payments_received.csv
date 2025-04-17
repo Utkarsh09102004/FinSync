@@ -1,0 +1,55 @@
+Customer Name,Payment #,Payment Date,Payment Mode,Amount Received (INR),Deposit To Account,Invoice(s) Paid
+Alpha Solutions Pvt Ltd,PMT-REC-001,2023-04-12,NEFT,177000.00,Cash - HDFC Bank Current A/c,INV-2023-98 // 150K + 18% GST
+Gamma Consulting,PMT-REC-002,2023-04-04,RTGS,59000.00,Cash - HDFC Bank Current A/c,INV-2023-96 // 50K + 18% GST
+Epsilon Systems India,PMT-REC-003,2023-04-09,NEFT,59000.00,Cash - HDFC Bank Current A/c,INV-2023-97 // 50K + 18% GST
+Beta Tech Services LLP,PMT-REC-004,2023-04-19,IMPS,177000.00,Cash - HDFC Bank Current A/c,INV-2023-99 // 150K + 18% GST
+Delta Digital Works,PMT-REC-005,2023-04-05,UPI,88500.00,Cash - HDFC Bank Current A/c,INV-2023-95 // 75K + 18% GST
+Zeta Innovations,PMT-REC-006,2023-04-08,RTGS,177000.00,Cash - HDFC Bank Current A/c,INV-2023-94 // 150K + 18% GST
+Omega Software Ltd,PMT-REC-007,2023-04-10,NEFT,9440.00,Cash - HDFC Bank Current A/c,INV-2023-93 // 8K + 18% GST
+Alpha Solutions Pvt Ltd,PMT-REC-008,2023-05-04,NEFT,132750.00,Cash - HDFC Bank Current A/c,INV-2024-001 // 112.5K + 18% GST
+Beta Tech Services LLP,PMT-REC-009,2023-05-05,IMPS,23600.00,Cash - HDFC Bank Current A/c,INV-2024-002 // 20K + 18% GST
+Gamma Consulting,PMT-REC-010,2023-05-06,RTGS,88500.00,Cash - HDFC Bank Current A/c,INV-2024-003 // 75K + 18% GST
+Delta Digital Works,PMT-REC-011,2023-05-10,UPI,354000.00,Cash - HDFC Bank Current A/c,INV-2024-004 // 300K + 18% GST
+Epsilon Systems India,PMT-REC-012,2023-05-11,NEFT,177000.00,Cash - HDFC Bank Current A/c,INV-2024-005 // 150K + 18% GST
+Zeta Innovations,PMT-REC-013,2023-05-12,RTGS,9440.00,Cash - HDFC Bank Current A/c,INV-2024-006 // 8K + 18% GST
+Omega Software Ltd,PMT-REC-014,2023-05-14,NEFT,354000.00,Cash - HDFC Bank Current A/c,INV-2024-007 // 300K + 18% GST
+Sigma Analytics Co,PMT-REC-015,2023-05-15,IMPS,59000.00,Cash - HDFC Bank Current A/c,INV-2024-008 // 50K + 18% GST
+Alpha Solutions Pvt Ltd,PMT-REC-016,2023-05-18,NEFT,42480.00,Cash - HDFC Bank Current A/c,INV-2024-009 // 36K + 18% GST
+Beta Tech Services LLP,PMT-REC-017,2023-05-19,IMPS,88500.00,Cash - HDFC Bank Current A/c,INV-2024-010 // 75K + 18% GST
+Gamma Consulting,PMT-REC-018,2023-05-20,RTGS,236000.00,Cash - HDFC Bank Current A/c,INV-2024-011 // 200K + 18% GST
+Delta Digital Works,PMT-REC-019,2023-05-21,UPI,23600.00,Cash - HDFC Bank Current A/c,INV-2024-012 // 20K + 18% GST
+Epsilon Systems India,PMT-REC-020,2023-05-24,NEFT,221250.00,Cash - HDFC Bank Current A/c,INV-2024-013 // 187.5K + 18% GST
+Zeta Innovations,PMT-REC-021,2023-05-25,RTGS,29500.00,Cash - HDFC Bank Current A/c,INV-2024-014 // 25K + 18% GST
+Omega Software Ltd,PMT-REC-022,2023-05-26,NEFT,177000.00,Cash - HDFC Bank Current A/c,INV-2024-015 // 150K + 18% GST
+Sigma Analytics Co,PMT-REC-023,2023-05-28,IMPS,309750.00,Cash - HDFC Bank Current A/c,INV-2024-016 // 262.5K + 18% GST
+Alpha Solutions Pvt Ltd,PMT-REC-024,2023-06-01,NEFT,9440.00,Cash - HDFC Bank Current A/c,INV-2024-017 // 8K + 18% GST
+Beta Tech Services LLP,PMT-REC-025,2023-06-02,IMPS,259600.00,Cash - HDFC Bank Current A/c,INV-2024-018 // 220K + 18% GST
+Gamma Consulting,PMT-REC-026,2023-06-03,RTGS,70800.00,Cash - HDFC Bank Current A/c,INV-2024-019 // 60K + 18% GST
+Delta Digital Works,PMT-REC-027,2023-06-04,UPI,84960.00,Cash - HDFC Bank Current A/c,INV-2024-020 // 72K + 18% GST
+Epsilon Systems India,PMT-REC-028,2023-06-07,NEFT,442500.00,Cash - HDFC Bank Current A/c,INV-2024-021 // 375K + 18% GST
+Zeta Innovations,PMT-REC-029,2023-06-08,RTGS,23600.00,Cash - HDFC Bank Current A/c,INV-2024-022 // 20K + 18% GST
+Omega Software Ltd,PMT-REC-030,2023-06-09,NEFT,59000.00,Cash - HDFC Bank Current A/c,INV-2024-023 // 50K + 18% GST
+Sigma Analytics Co,PMT-REC-031,2023-06-10,IMPS,177000.00,Cash - HDFC Bank Current A/c,INV-2024-024 // 150K + 18% GST
+Alpha Solutions Pvt Ltd,PMT-REC-032,2023-06-11,NEFT,177000.00,Cash - HDFC Bank Current A/c,INV-2024-025 // 150K + 18% GST
+Beta Tech Services LLP,PMT-REC-033,2023-06-14,IMPS,9440.00,Cash - HDFC Bank Current A/c,INV-2024-026 // 8K + 18% GST
+Gamma Consulting,PMT-REC-034,2023-06-15,RTGS,265500.00,Cash - HDFC Bank Current A/c,INV-2024-027 // 225K + 18% GST
+Delta Digital Works,PMT-REC-035,2023-06-16,UPI,59000.00,Cash - HDFC Bank Current A/c,INV-2024-028 // 50K + 18% GST
+Epsilon Systems India,PMT-REC-036,2023-06-17,NEFT,21240.00,Cash - HDFC Bank Current A/c,INV-2024-029 // 18K + 18% GST
+Zeta Innovations,PMT-REC-037,2023-06-18,RTGS,159300.00,Cash - HDFC Bank Current A/c,INV-2024-030 // 135K + 18% GST
+Omega Software Ltd,PMT-REC-038,2023-06-21,NEFT,330400.00,Cash - HDFC Bank Current A/c,INV-2024-031 // 280K + 18% GST
+Sigma Analytics Co,PMT-REC-039,2023-06-22,IMPS,23600.00,Cash - HDFC Bank Current A/c,INV-2024-032 // 20K + 18% GST
+Alpha Solutions Pvt Ltd,PMT-REC-040,2023-06-23,NEFT,106200.00,Cash - HDFC Bank Current A/c,INV-2024-033 // 90K + 18% GST
+Beta Tech Services LLP,PMT-REC-041,2023-06-24,IMPS,147500.00,Cash - HDFC Bank Current A/c,INV-2024-034 // 125K + 18% GST
+Gamma Consulting,PMT-REC-042,2023-06-25,RTGS,177000.00,Cash - HDFC Bank Current A/c,INV-2024-035 // 150K + 18% GST
+Delta Digital Works,PMT-REC-043,2023-06-28,UPI,177000.00,Cash - HDFC Bank Current A/c,INV-2024-036 // 150K + 18% GST
+Epsilon Systems India,PMT-REC-044,2023-06-29,NEFT,9440.00,Cash - HDFC Bank Current A/c,INV-2024-037 // 8K + 18% GST
+Zeta Innovations,PMT-REC-045,2023-06-30,RTGS,413000.00,Cash - HDFC Bank Current A/c,INV-2024-038 // 350K + 18% GST
+Omega Software Ltd,PMT-REC-046,2023-07-01,NEFT,88500.00,Cash - HDFC Bank Current A/c,INV-2024-039 // 75K + 18% GST
+Sigma Analytics Co,PMT-REC-047,2023-07-02,IMPS,63720.00,Cash - HDFC Bank Current A/c,INV-2024-040 // 54K + 18% GST
+Alpha Solutions Pvt Ltd,PMT-REC-048,2023-07-05,NEFT,247800.00,Cash - HDFC Bank Current A/c,INV-2024-041 // 210K + 18% GST
+Beta Tech Services LLP,PMT-REC-049,2023-07-06,IMPS,23600.00,Cash - HDFC Bank Current A/c,INV-2024-042 // 20K + 18% GST
+Gamma Consulting,PMT-REC-050,2023-07-07,RTGS,29500.00,Cash - HDFC Bank Current A/c,INV-2024-043 // 25K + 18% GST
+Delta Digital Works,PMT-REC-051,2023-07-08,UPI,212400.00,Cash - HDFC Bank Current A/c,INV-2024-044 // 180K + 18% GST
+Epsilon Systems India,PMT-REC-052,2023-07-09,NEFT,177000.00,Cash - HDFC Bank Current A/c,INV-2024-045 // 150K + 18% GST
+
+

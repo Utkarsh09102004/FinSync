@@ -1,0 +1,16 @@
+Date,Journal Entry #,Reference #,Notes,Account Name,Debits (INR),Credits (INR)
+2023-04-01,OB-IN-001,OPBAL2023-24,Opening Balances Apr 1 2023,Cash - HDFC Bank Current A/c,1250000.00,
+2023-04-01,OB-IN-001,OPBAL2023-24,Opening Balances Apr 1 2023,Cash - ICICI Bank Savings A/c,800000.00,
+2023-04-01,OB-IN-001,OPBAL2023-24,Opening Balances Apr 1 2023,Accounts Receivable (Sundry Debtors),633000.00,  
+2023-04-01,OB-IN-001,OPBAL2023-24,Opening Balances Apr 1 2023,Computer Equipment,500000.00,
+2023-04-01,OB-IN-001,OPBAL2023-24,Opening Balances Apr 1 2023,Office Furniture,200000.00,
+2023-04-01,OB-IN-001,OPBAL2023-24,Opening Balances Apr 1 2023,CGST Payable,, -25000.00 // Negative credit means Input Credit
+2023-04-01,OB-IN-001,OPBAL2023-24,Opening Balances Apr 1 2023,SGST Payable,, -25000.00 // Negative credit means Input Credit
+2023-04-01,OB-IN-001,OPBAL2023-24,Opening Balances Apr 1 2023,IGST Payable,, -10000.00 // Negative credit means Input Credit
+2023-04-01,OB-IN-001,OPBAL2023-24,Opening Balances Apr 1 2023,Accum. Depr - Equipment,,80000.00
+2023-04-01,OB-IN-001,OPBAL2023-24,Opening Balances Apr 1 2023,Accum. Depr - Furniture,,30000.00
+2023-04-01,OB-IN-001,OPBAL2023-24,Opening Balances Apr 1 2023,Accounts Payable (Sundry Creditors),,360000.00 
+2023-04-01,OB-IN-001,OPBAL2023-24,Opening Balances Apr 1 2023,Credit Card Payable - Amex,,150000.00
+2023-04-01,OB-IN-001,OPBAL2023-24,Opening Balances Apr 1 2023,TDS Payable,,15000.00
+2023-04-01,OB-IN-001,OPBAL2023-24,Opening Balances Apr 1 2023,Loan Payable - Bank of Baroda,,750000.00
+2023-04-01,OB-IN-001,OPBAL2023-24,Opening Balances Apr 1 2023,Director's Capital Account,,1888000.00

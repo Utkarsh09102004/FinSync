@@ -1,0 +1,11 @@
+Customer Display Name,Company Name,Email,Phone,Billing Address Line 1,Billing Address Line 2,Billing City,Billing State,Billing PIN Code,GST Treatment,GSTIN / UIN
+Alpha Solutions Pvt Ltd,Alpha Solutions Pvt Ltd,contact@alphasol.example.in,98XXXXXX01,10, MG Road,,Bengaluru,Karnataka,560001,Registered Business - Regular,29AAAAA1111A1Z1
+Beta Tech Services LLP,Beta Tech Services LLP,accounts@betatech.example.in,97XXXXXX02,"Unit 5, Tech Park One",Hinjewadi Phase 1,Pune,Maharashtra,411057,Registered Business - Regular,27BBBBB2222B1Z2
+Gamma Consulting,Gamma Consulting (Proprietor),billing@gammacon.example.in,96XXXXXX03,25, Anna Salai,,Chennai,Tamil Nadu,600002,Registered Business - Regular,33CCCCC3333C1Z3
+Delta Digital Works,Delta Digital Works,info@deltadigital.example.in,95XXXXXX04,15/A, Koramangala 4th Block,,Bengaluru,Karnataka,560034,Registered Business - Regular,29DDDDD4444D1Z4
+Epsilon Systems India,Epsilon Systems India Pvt Ltd,ap@epsilonsys.example.in,94XXXXXX05,"Plot 30, Sector 18",Udyog Vihar Phase IV,Gurugram,Haryana,122015,Registered Business - Regular,06EEEEE5555E1Z5
+Zeta Innovations,Zeta Innovations,contact@zetainno.example.in,93XXXXXX06,500, Jubilee Hills,Road No 36,Hyderabad,Telangana,500033,Registered Business - Regular,36FFFFF6666F1Z6
+Omega Software Ltd,Omega Software Ltd,finance@omegasw.example.in,92XXXXXX07,Global Tech Park,Outer Ring Road,Bengaluru,Karnataka,560103,Registered Business - Regular,29GGGGG7777G1Z7
+Sigma Analytics Co,Sigma Analytics Co,billing@sigmaanalytics.example.in,91XXXXXX08,"Bandra Kurla Complex (BKC)",G Block,Mumbai,Maharashtra,400051,Registered Business - Regular,27HHHHH8888H1Z8
+Consumer Retail Store,Consumer Retail Store,N/A,88XXXXXX09,12, Commercial Street,,Bengaluru,Karnataka,560001,Unregistered Business,
+Overseas Client Inc,Overseas Client Inc,billing@overseas.example,N/A,1 Global Plaza,,New York,New York,10001,Overseas,

@@ -1,0 +1,64 @@
+Customer Name,Invoice #,Invoice Date,Due Date,Place of Supply (State),Item Name,Quantity,Rate,Amount,Invoice Total (Base)
+Alpha Solutions Pvt Ltd,INV-2024-001,2023-04-05,2023-05-05,Karnataka,Consulting Hour,15,7500.00,112500.00,112500.00
+Beta Tech Services LLP,INV-2024-002,2023-04-06,2023-05-06,Maharashtra,Premium Support Contract,1,20000.00,20000.00,20000.00
+Gamma Consulting,INV-2024-003,2023-04-07,2023-05-07,Tamil Nadu,Software License - Brand X,3,25000.00,75000.00,75000.00
+Delta Digital Works,INV-2024-004,2023-04-10,2023-05-10,Karnataka,Custom Development Hour,30,10000.00,300000.00,300000.00
+Epsilon Systems India,INV-2024-005,2023-04-11,2023-05-11,Haryana,Project Retainer Fee,1,150000.00,150000.00,150000.00
+Zeta Innovations,INV-2024-006,2023-04-12,2023-05-12,Telangana,Basic Support Contract,1,8000.00,8000.00,8000.00
+Omega Software Ltd,INV-2024-007,2023-04-14,2023-05-14,Karnataka,Consulting Hour,40,7500.00,300000.00,300000.00
+Sigma Analytics Co,INV-2024-008,2023-04-15,2023-05-15,Maharashtra,Initial Project Setup,1,50000.00,50000.00,50000.00
+Alpha Solutions Pvt Ltd,INV-2024-009,2023-04-18,2023-05-18,Karnataka,Network Switch - Resale,2,18000.00,36000.00,36000.00
+Beta Tech Services LLP,INV-2024-010,2023-04-19,2023-05-19,Maharashtra,Consulting Hour,10,7500.00,75000.00,75000.00
+Gamma Consulting,INV-2024-011,2023-04-20,2023-05-20,Tamil Nadu,Custom Development Hour,20,10000.00,200000.00,200000.00
+Delta Digital Works,INV-2024-012,2023-04-21,2023-05-21,Karnataka,Premium Support Contract,1,20000.00,20000.00,20000.00
+Epsilon Systems India,INV-2024-013,2023-04-24,2023-05-24,Haryana,Consulting Hour,25,7500.00,187500.00,187500.00
+Zeta Innovations,INV-2024-014,2023-04-25,2023-05-25,Telangana,Software License - Brand X,1,25000.00,25000.00,25000.00
+Omega Software Ltd,INV-2024-015,2023-04-26,2023-05-26,Karnataka,Project Retainer Fee,1,150000.00,150000.00,150000.00
+Sigma Analytics Co,INV-2024-016,2023-04-28,2023-05-28,Maharashtra,Consulting Hour,35,7500.00,262500.00,262500.00
+Alpha Solutions Pvt Ltd,INV-2024-017,2023-05-02,2023-06-01,Karnataka,Basic Support Contract,1,8000.00,8000.00,8000.00
+Beta Tech Services LLP,INV-2024-018,2023-05-03,2023-06-02,Maharashtra,Custom Development Hour,22,10000.00,220000.00,220000.00
+Gamma Consulting,INV-2024-019,2023-05-04,2023-06-03,Tamil Nadu,Consulting Hour,8,7500.00,60000.00,60000.00
+Delta Digital Works,INV-2024-020,2023-05-05,2023-06-04,Karnataka,Network Switch - Resale,4,18000.00,72000.00,72000.00
+Epsilon Systems India,INV-2024-021,2023-05-08,2023-06-07,Haryana,Consulting Hour,50,7500.00,375000.00,375000.00
+Zeta Innovations,INV-2024-022,2023-05-09,2023-06-08,Telangana,Premium Support Contract,1,20000.00,20000.00,20000.00
+Omega Software Ltd,INV-2024-023,2023-05-10,2023-06-09,Karnataka,Software License - Brand X,2,25000.00,50000.00,50000.00
+Sigma Analytics Co,INV-2024-024,2023-05-11,2023-06-10,Maharashtra,Custom Development Hour,15,10000.00,150000.00,150000.00
+Alpha Solutions Pvt Ltd,INV-2024-025,2023-05-12,2023-06-11,Karnataka,Project Retainer Fee,1,150000.00,150000.00,150000.00
+Beta Tech Services LLP,INV-2024-026,2023-05-15,2023-06-14,Maharashtra,Basic Support Contract,1,8000.00,8000.00,8000.00
+Gamma Consulting,INV-2024-027,2023-05-16,2023-06-15,Tamil Nadu,Consulting Hour,30,7500.00,225000.00,225000.00
+Delta Digital Works,INV-2024-028,2023-05-17,2023-06-16,Karnataka,Initial Project Setup,1,50000.00,50000.00,50000.00
+Epsilon Systems India,INV-2024-029,2023-05-18,2023-06-17,Haryana,Network Switch - Resale,1,18000.00,18000.00,18000.00
+Zeta Innovations,INV-2024-030,2023-05-19,2023-06-18,Telangana,Consulting Hour,18,7500.00,135000.00,135000.00
+Omega Software Ltd,INV-2024-031,2023-05-22,2023-06-21,Karnataka,Custom Development Hour,28,10000.00,280000.00,280000.00
+Sigma Analytics Co,INV-2024-032,2023-05-23,2023-06-22,Maharashtra,Premium Support Contract,1,20000.00,20000.00,20000.00
+Alpha Solutions Pvt Ltd,INV-2024-033,2023-05-24,2023-06-23,Karnataka,Consulting Hour,12,7500.00,90000.00,90000.00
+Beta Tech Services LLP,INV-2024-034,2023-05-25,2023-06-24,Maharashtra,Software License - Brand X,5,25000.00,125000.00,125000.00
+Gamma Consulting,INV-2024-035,2023-05-26,2023-06-25,Tamil Nadu,Project Retainer Fee,1,150000.00,150000.00,150000.00
+Delta Digital Works,INV-2024-036,2023-05-29,2023-06-28,Karnataka,Consulting Hour,20,7500.00,150000.00,150000.00
+Epsilon Systems India,INV-2024-037,2023-05-30,2023-06-29,Haryana,Basic Support Contract,1,8000.00,8000.00,8000.00
+Zeta Innovations,INV-2024-038,2023-05-31,2023-06-30,Telangana,Custom Development Hour,35,10000.00,350000.00,350000.00
+Omega Software Ltd,INV-2024-039,2023-06-01,2023-07-01,Karnataka,Consulting Hour,10,7500.00,75000.00,75000.00
+Sigma Analytics Co,INV-2024-040,2023-06-02,2023-07-02,Maharashtra,Network Switch - Resale,3,18000.00,54000.00,54000.00
+Alpha Solutions Pvt Ltd,INV-2024-041,2023-06-05,2023-07-05,Karnataka,Consulting Hour,28,7500.00,210000.00,210000.00
+Beta Tech Services LLP,INV-2024-042,2023-06-06,2023-07-06,Maharashtra,Premium Support Contract,1,20000.00,20000.00,20000.00
+Gamma Consulting,INV-2024-043,2023-06-07,2023-07-07,Tamil Nadu,Software License - Brand X,1,25000.00,25000.00,25000.00
+Delta Digital Works,INV-2024-044,2023-06-08,2023-07-08,Karnataka,Custom Development Hour,18,10000.00,180000.00,180000.00
+Epsilon Systems India,INV-2024-045,2023-06-09,2023-07-09,Haryana,Project Retainer Fee,1,150000.00,150000.00,150000.00
+Zeta Innovations,INV-2024-046,2023-06-12,2023-07-12,Telangana,Basic Support Contract,1,8000.00,8000.00,8000.00
+Omega Software Ltd,INV-2024-047,2023-06-13,2023-07-13,Karnataka,Consulting Hour,45,7500.00,337500.00,337500.00
+Sigma Analytics Co,INV-2024-048,2023-06-14,2023-07-14,Maharashtra,Initial Project Setup,1,50000.00,50000.00,50000.00
+Alpha Solutions Pvt Ltd,INV-2024-049,2023-06-15,2023-07-15,Karnataka,Consulting Hour,9,7500.00,67500.00,67500.00
+Beta Tech Services LLP,INV-2024-050,2023-06-16,2023-07-16,Maharashtra,Network Switch - Resale,5,18000.00,90000.00,90000.00
+Gamma Consulting,INV-2024-051,2023-06-19,2023-07-19,Tamil Nadu,Custom Development Hour,25,10000.00,250000.00,250000.00
+Delta Digital Works,INV-2024-052,2023-06-20,2023-07-20,Karnataka,Consulting Hour,14,7500.00,105000.00,105000.00
+Epsilon Systems India,INV-2024-053,2023-06-21,2023-07-21,Haryana,Premium Support Contract,1,20000.00,20000.00,20000.00
+Zeta Innovations,INV-2024-054,2023-06-22,2023-07-22,Telangana,Consulting Hour,16,7500.00,120000.00,120000.00
+Omega Software Ltd,INV-2024-055,2023-06-23,2023-07-23,Karnataka,Software License - Brand X,4,25000.00,100000.00,100000.00
+Sigma Analytics Co,INV-2024-056,2023-06-26,2023-07-26,Maharashtra,Custom Development Hour,30,10000.00,300000.00,300000.00
+Alpha Solutions Pvt Ltd,INV-2024-057,2023-06-27,2023-07-27,Karnataka,Project Retainer Fee,1,150000.00,150000.00,150000.00
+Beta Tech Services LLP,INV-2024-058,2023-06-28,2023-07-28,Maharashtra,Consulting Hour,11,7500.00,82500.00,82500.00
+Gamma Consulting,INV-2024-059,2023-06-29,2023-07-29,Tamil Nadu,Basic Support Contract,1,8000.00,8000.00,8000.00
+Delta Digital Works,INV-2024-060,2023-06-30,2023-07-30,Karnataka,Network Switch - Resale,2,18000.00,36000.00,36000.00
+Alpha Solutions Pvt Ltd,INV-2024-061,2023-07-05,2023-08-04,Karnataka,Consulting Hour,20,7500.00,150000.00,150000.00
+Beta Tech Services LLP,INV-2024-062,2023-07-06,2023-08-05,Maharashtra,Premium Support Contract,1,20000.00,20000.00,20000.00
+
