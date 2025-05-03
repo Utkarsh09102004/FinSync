@@ -1,0 +1,815 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Income Statement</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        .statement {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        .statement th, .statement td {
+            padding: 8px 12px;
+            text-align: left;
+        }
+        .statement td:last-child {
+            text-align: right;
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .section-header {
+            font-weight: bold;
+            background-color: #f2f2f2;
+        }
+        .indent-1 {
+            padding-left: 30px;
+        }
+        .total-row {
+            font-weight: bold;
+            border-top: 1px solid #ddd;
+        }
+        .grand-total {
+            font-weight: bold;
+            font-size: 1.1em;
+            border-top: 2px solid #000;
+            border-bottom: 2px solid #000;
+        }
+        .negative {
+            color: #d9534f;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Income Statement</h1>
+        <p id="date-range"></p>
+    </div>
+    
+    <table class="statement" id="income-statement">
+        <!-- Table content will be inserted by JavaScript -->
+    </table>
+
+    <script>
+        // Load the data
+        const data = {
+  "code": 0,
+  "message": "success",
+  "profit_and_loss": {
+    "has_total": true,
+    "is_budget_enabled_account": true,
+    "can_show_row": false,
+    "values": [
+      {
+        "total_sub_account": -479705.0,
+        "total": 0.0,
+        "total_sub_account_formatted": "-4,79,705.00",
+        "total_formatted": "0.00"
+      }
+    ],
+    "node_name": "profit_and_loss",
+    "is_default_parent": true,
+    "is_footer_needed": false,
+    "align": "left",
+    "can_show_grand_total": false,
+    "is_drill_down_supported": false,
+    "has_name": true,
+    "total_label": "Total for Profit and Loss",
+    "is_header_needed": true,
+    "is_detailed_view": true,
+    "name": "Profit and Loss",
+    "multiple_values": {
+      "field_name": "reports_profit_and_loss_key",
+      "field_name_formatted": "Profit and Loss",
+      "is_percentage_row": true,
+      "group": "report"
+    },
+    "is_starting_level": false,
+    "has_child": true,
+    "accounts": [
+      {
+        "is_budget_enabled_account": true,
+        "can_show_row": true,
+        "values": [
+          {
+            "total_sub_account": 908000.0,
+            "total": 0.0,
+            "total_sub_account_formatted": "9,08,000.00",
+            "total_formatted": "0.00"
+          }
+        ],
+        "node_name": "operating_income",
+        "is_default_parent": true,
+        "is_footer_needed": true,
+        "align": "left",
+        "can_show_grand_total": false,
+        "is_drill_down_supported": false,
+        "depth": 0,
+        "total_label": "Total for Operating Income",
+        "is_header_needed": true,
+        "is_detailed_view": true,
+        "name": "Operating Income",
+        "multiple_values": {
+          "field_name": "reports_operating_income_key",
+          "field_name_formatted": "Operating Income",
+          "is_percentage_row": true,
+          "group": "report"
+        },
+        "is_starting_level": false,
+        "has_child": true,
+        "accounts": [
+          {
+            "can_show_row": true,
+            "values": [
+              {
+                "total_sub_account": 289500.0,
+                "total": 289500.0,
+                "total_sub_account_formatted": "2,89,500.00",
+                "total_formatted": "2,89,500.00"
+              }
+            ],
+            "is_default_parent": false,
+            "align": "left",
+            "can_show_grand_total": false,
+            "is_drill_down_supported": true,
+            "account_id": "2538476000000000486",
+            "depth": 1,
+            "name": "Sales",
+            "is_starting_level": false,
+            "has_child": false,
+            "can_show_footer": false,
+            "depth_indent": 10
+          },
+          {
+            "can_show_row": true,
+            "values": [
+              {
+                "total_sub_account": 618500.0,
+                "total": 618500.0,
+                "total_sub_account_formatted": "6,18,500.00",
+                "total_formatted": "6,18,500.00"
+              }
+            ],
+            "is_default_parent": false,
+            "align": "left",
+            "can_show_grand_total": false,
+            "is_drill_down_supported": true,
+            "account_id": "2538476000000032099",
+            "depth": 1,
+            "name": "Service Revenue",
+            "is_starting_level": false,
+            "has_child": false,
+            "can_show_footer": false,
+            "depth_indent": 10
+          }
+        ],
+        "can_show_footer": true,
+        "formula_key": "reports_operating_income_key",
+        "depth_indent": 0
+      },
+      {
+        "is_budget_enabled_account": false,
+        "can_show_row": true,
+        "values": [
+          {
+            "total_sub_account": 0.0,
+            "total": 0.0,
+            "total_sub_account_formatted": "0.00",
+            "total_formatted": "0.00"
+          }
+        ],
+        "node_name": "cost_of_goods_sold",
+        "is_default_parent": true,
+        "is_footer_needed": true,
+        "align": "left",
+        "is_credit_positive": false,
+        "can_show_grand_total": false,
+        "is_drill_down_supported": false,
+        "depth": 0,
+        "total_label": "Total for Cost of Goods Sold",
+        "is_header_needed": true,
+        "is_detailed_view": true,
+        "name": "Cost of Goods Sold",
+        "multiple_values": {
+          "field_name": "reports_cost_of_goods_sold_key",
+          "field_name_formatted": "Cost of Goods Sold",
+          "is_percentage_row": true,
+          "group": "report"
+        },
+        "is_starting_level": false,
+        "has_child": false,
+        "accounts": [],
+        "can_show_footer": true,
+        "formula_key": "reports_cost_of_goods_sold_key",
+        "depth_indent": 0
+      },
+      {
+        "is_budget_enabled_account": false,
+        "formula_array": [
+          {
+            "name": "Operating Income",
+            "value": "reports_operating_income_key"
+          },
+          {
+            "value": "-"
+          },
+          {
+            "name": "Cost of Goods Sold",
+            "value": "reports_cost_of_goods_sold_key"
+          }
+        ],
+        "can_show_row": true,
+        "values": [
+          {
+            "total_sub_account": 908000.0,
+            "total": 908000.0,
+            "total_sub_account_formatted": "9,08,000.00",
+            "total_formatted": "9,08,000.00"
+          }
+        ],
+        "node_name": "gross_profit",
+        "is_default_parent": true,
+        "is_footer_needed": false,
+        "align": "left",
+        "type": "formula",
+        "can_show_grand_total": false,
+        "is_drill_down_supported": false,
+        "depth": 0,
+        "total_label": "Gross Profit",
+        "is_formula_row": true,
+        "is_header_needed": true,
+        "is_detailed_view": true,
+        "name": "Gross Profit",
+        "multiple_values": {
+          "field_name": "reports_gross_profit_key",
+          "field_name_formatted": "Gross Profit",
+          "is_percentage_row": true,
+          "group": "report"
+        },
+        "is_starting_level": false,
+        "has_child": false,
+        "accounts": [],
+        "can_show_footer": true,
+        "formula_key": "reports_gross_profit_key",
+        "depth_indent": 0
+      },
+      {
+        "is_budget_enabled_account": true,
+        "can_show_row": true,
+        "values": [
+          {
+            "total_sub_account": 1387705.0,
+            "total": 0.0,
+            "total_sub_account_formatted": "13,87,705.00",
+            "total_formatted": "0.00"
+          }
+        ],
+        "node_name": "operating_expense",
+        "is_default_parent": true,
+        "is_footer_needed": true,
+        "align": "left",
+        "is_credit_positive": false,
+        "can_show_grand_total": false,
+        "is_drill_down_supported": false,
+        "depth": 0,
+        "total_label": "Total for Operating Expense",
+        "is_header_needed": true,
+        "is_detailed_view": true,
+        "name": "Operating Expense",
+        "multiple_values": {
+          "field_name": "reports_operating_expense_key",
+          "field_name_formatted": "Operating Expense",
+          "is_percentage_row": true,
+          "group": "report"
+        },
+        "is_starting_level": false,
+        "has_child": true,
+        "accounts": [
+          {
+            "can_show_row": true,
+            "values": [
+              {
+                "total_sub_account": 1250.0,
+                "total": 1250.0,
+                "total_sub_account_formatted": "1,250.00",
+                "total_formatted": "1,250.00"
+              }
+            ],
+            "is_default_parent": false,
+            "align": "left",
+            "can_show_grand_total": false,
+            "is_drill_down_supported": true,
+            "account_id": "2538476000000032127",
+            "depth": 1,
+            "name": "Bank Charges",
+            "is_starting_level": false,
+            "has_child": false,
+            "can_show_footer": false,
+            "depth_indent": 10
+          },
+          {
+            "can_show_row": true,
+            "values": [
+              {
+                "total_sub_account": 16800.0,
+                "total": 16800.0,
+                "total_sub_account_formatted": "16,800.00",
+                "total_formatted": "16,800.00"
+              }
+            ],
+            "is_default_parent": false,
+            "align": "left",
+            "can_show_grand_total": false,
+            "is_drill_down_supported": true,
+            "account_id": "2538476000000000516",
+            "depth": 1,
+            "name": "Travel Expense",
+            "is_starting_level": false,
+            "has_child": false,
+            "can_show_footer": false,
+            "depth_indent": 10
+          },
+          {
+            "can_show_row": true,
+            "values": [
+              {
+                "total_sub_account": 21250.0,
+                "total": 21250.0,
+                "total_sub_account_formatted": "21,250.00",
+                "total_formatted": "21,250.00"
+              }
+            ],
+            "is_default_parent": false,
+            "align": "left",
+            "can_show_grand_total": false,
+            "is_drill_down_supported": true,
+            "account_id": "2538476000000032121",
+            "depth": 1,
+            "name": "Utilities Expense",
+            "is_starting_level": false,
+            "has_child": false,
+            "can_show_footer": false,
+            "depth_indent": 10
+          },
+          {
+            "can_show_row": true,
+            "values": [
+              {
+                "total_sub_account": 111405.0,
+                "total": 111405.0,
+                "total_sub_account_formatted": "1,11,405.00",
+                "total_formatted": "1,11,405.00"
+              }
+            ],
+            "is_default_parent": false,
+            "align": "left",
+            "can_show_grand_total": false,
+            "is_drill_down_supported": true,
+            "account_id": "2538476000000032115",
+            "depth": 1,
+            "name": "Office Supplies Expense",
+            "is_starting_level": false,
+            "has_child": false,
+            "can_show_footer": false,
+            "depth_indent": 10
+          },
+          {
+            "can_show_row": true,
+            "values": [
+              {
+                "total_sub_account": 111800.0,
+                "total": 111800.0,
+                "total_sub_account_formatted": "1,11,800.00",
+                "total_formatted": "1,11,800.00"
+              }
+            ],
+            "is_default_parent": false,
+            "align": "left",
+            "can_show_grand_total": false,
+            "is_drill_down_supported": true,
+            "account_id": "2538476000000032133",
+            "depth": 1,
+            "name": "Consulting Fees",
+            "is_starting_level": false,
+            "has_child": false,
+            "can_show_footer": false,
+            "depth_indent": 10
+          },
+          {
+            "can_show_row": true,
+            "values": [
+              {
+                "total_sub_account": 210000.0,
+                "total": 210000.0,
+                "total_sub_account_formatted": "2,10,000.00",
+                "total_formatted": "2,10,000.00"
+              }
+            ],
+            "is_default_parent": false,
+            "align": "left",
+            "can_show_grand_total": false,
+            "is_drill_down_supported": true,
+            "account_id": "2538476000000000528",
+            "depth": 1,
+            "name": "Rent Expense",
+            "is_starting_level": false,
+            "has_child": false,
+            "can_show_footer": false,
+            "depth_indent": 10
+          },
+          {
+            "can_show_row": true,
+            "values": [
+              {
+                "total_sub_account": 411000.0,
+                "total": 411000.0,
+                "total_sub_account_formatted": "4,11,000.00",
+                "total_formatted": "4,11,000.00"
+              }
+            ],
+            "is_default_parent": false,
+            "align": "left",
+            "can_show_grand_total": false,
+            "is_drill_down_supported": true,
+            "account_id": "2538476000000032109",
+            "depth": 1,
+            "name": "Salaries Expense",
+            "is_starting_level": false,
+            "has_child": false,
+            "can_show_footer": false,
+            "depth_indent": 10
+          },
+          {
+            "can_show_row": true,
+            "values": [
+              {
+                "total_sub_account": 504200.0,
+                "total": 504200.0,
+                "total_sub_account_formatted": "5,04,200.00",
+                "total_formatted": "5,04,200.00"
+              }
+            ],
+            "is_default_parent": false,
+            "align": "left",
+            "can_show_grand_total": false,
+            "is_drill_down_supported": true,
+            "account_id": "2538476000000032103",
+            "depth": 1,
+            "name": "Purchases",
+            "is_starting_level": false,
+            "has_child": false,
+            "can_show_footer": false,
+            "depth_indent": 10
+          }
+        ],
+        "can_show_footer": true,
+        "formula_key": "reports_operating_expense_key",
+        "depth_indent": 0
+      },
+      {
+        "is_budget_enabled_account": false,
+        "formula_array": [
+          {
+            "name": "Gross Profit",
+            "value": "reports_gross_profit_key"
+          },
+          {
+            "value": "-"
+          },
+          {
+            "name": "Operating Expense",
+            "value": "reports_operating_expense_key"
+          }
+        ],
+        "can_show_row": true,
+        "values": [
+          {
+            "total_sub_account": -479705.0,
+            "total": -479705.0,
+            "total_sub_account_formatted": "-4,79,705.00",
+            "total_formatted": "-4,79,705.00"
+          }
+        ],
+        "node_name": "operating_profit",
+        "is_default_parent": true,
+        "is_footer_needed": false,
+        "align": "left",
+        "type": "formula",
+        "can_show_grand_total": false,
+        "is_drill_down_supported": false,
+        "depth": 0,
+        "total_label": "Operating Profit",
+        "is_formula_row": true,
+        "is_header_needed": true,
+        "is_detailed_view": true,
+        "name": "Operating Profit",
+        "multiple_values": {
+          "field_name": "reports_operating_profit_key",
+          "field_name_formatted": "Operating Profit",
+          "is_percentage_row": true,
+          "group": "report"
+        },
+        "is_starting_level": false,
+        "has_child": false,
+        "accounts": [],
+        "can_show_footer": true,
+        "formula_key": "reports_operating_profit_key",
+        "depth_indent": 0
+      },
+      {
+        "is_budget_enabled_account": false,
+        "can_show_row": true,
+        "values": [
+          {
+            "total_sub_account": 0.0,
+            "total": 0.0,
+            "total_sub_account_formatted": "0.00",
+            "total_formatted": "0.00"
+          }
+        ],
+        "node_name": "non_operating_income",
+        "is_default_parent": true,
+        "is_footer_needed": true,
+        "align": "left",
+        "can_show_grand_total": false,
+        "is_drill_down_supported": false,
+        "depth": 0,
+        "total_label": "Total for Non Operating Income",
+        "is_header_needed": true,
+        "is_detailed_view": true,
+        "name": "Non Operating Income",
+        "multiple_values": {
+          "field_name": "reports_non_operating_income_key",
+          "field_name_formatted": "Non Operating Income",
+          "is_percentage_row": true,
+          "group": "report"
+        },
+        "is_starting_level": false,
+        "has_child": false,
+        "accounts": [],
+        "can_show_footer": true,
+        "formula_key": "reports_non_operating_income_key",
+        "depth_indent": 0
+      },
+      {
+        "is_budget_enabled_account": false,
+        "can_show_row": true,
+        "values": [
+          {
+            "total_sub_account": 0.0,
+            "total": 0.0,
+            "total_sub_account_formatted": "0.00",
+            "total_formatted": "0.00"
+          }
+        ],
+        "node_name": "non_operating_expense",
+        "is_default_parent": true,
+        "is_footer_needed": true,
+        "align": "left",
+        "is_credit_positive": false,
+        "can_show_grand_total": false,
+        "is_drill_down_supported": false,
+        "depth": 0,
+        "total_label": "Total for Non Operating Expense",
+        "is_header_needed": true,
+        "is_detailed_view": true,
+        "name": "Non Operating Expense",
+        "multiple_values": {
+          "field_name": "reports_non_operating_expense_key",
+          "field_name_formatted": "Non Operating Expense",
+          "is_percentage_row": true,
+          "group": "report"
+        },
+        "is_starting_level": false,
+        "has_child": false,
+        "accounts": [],
+        "can_show_footer": true,
+        "formula_key": "reports_non_operating_expense_key",
+        "depth_indent": 0
+      },
+      {
+        "is_budget_enabled_account": false,
+        "formula_array": [
+          {
+            "name": "Operating Profit",
+            "value": "reports_operating_profit_key"
+          },
+          {
+            "value": "+"
+          },
+          {
+            "name": "Non Operating Income",
+            "value": "reports_non_operating_income_key"
+          },
+          {
+            "value": "-"
+          },
+          {
+            "name": "Non Operating Expense",
+            "value": "reports_non_operating_expense_key"
+          }
+        ],
+        "can_show_row": true,
+        "values": [
+          {
+            "total_sub_account": -479705.0,
+            "total": -479705.0,
+            "total_sub_account_formatted": "-4,79,705.00",
+            "total_formatted": "-4,79,705.00"
+          }
+        ],
+        "node_name": "net_profit_loss",
+        "is_default_parent": true,
+        "is_footer_needed": false,
+        "align": "left",
+        "type": "formula",
+        "can_show_grand_total": false,
+        "is_drill_down_supported": false,
+        "depth": 0,
+        "total_label": "Net Profit/Loss",
+        "is_formula_row": true,
+        "is_header_needed": true,
+        "is_detailed_view": true,
+        "name": "Net Profit/Loss",
+        "multiple_values": {
+          "field_name": "reports_net_profit_loss_key",
+          "field_name_formatted": "Net Profit/Loss",
+          "is_percentage_row": true,
+          "group": "report"
+        },
+        "is_starting_level": false,
+        "has_child": false,
+        "accounts": [],
+        "can_show_footer": true,
+        "formula_key": "reports_net_profit_loss_key",
+        "depth_indent": 0
+      }
+    ],
+    "can_show_footer": false,
+    "formula_key": "reports_profit_and_loss_key"
+  },
+  "page_context": {
+    "can_show_reports_banner": false,
+    "can_schedule": true,
+    "is_inv_txn_job_in_progress": false,
+    "report_basis": "Accrual",
+    "is_already_scheduled": false,
+    "report_type": "profit_and_loss",
+    "applied_filter": "TransactionDate.CustomDate",
+    "from_date": "2024-11-01",
+    "to_date": "2026-02-24",
+    "date_range": [
+      {
+        "date_range_label": "01 Nov 2024 - 24 Feb 2026",
+        "from_date": "2024-11-01",
+        "to_date": "2026-02-24"
+      }
+    ]
+  }
+};
+
+        // Update date range in header
+        const dateRangeElement = document.getElementById('date-range');
+        dateRangeElement.textContent = data.page_context.date_range[0].date_range_label;
+
+        // Generate the income statement table
+        const tableElement = document.getElementById('income-statement');
+        
+        // Function to format currency values
+        function formatCurrency(value) {
+            return value;
+        }
+
+        // Function to add a row to the table
+        function addRow(name, value, className = '') {
+            const row = document.createElement('tr');
+            if (className) row.className = className;
+            
+            const nameCell = document.createElement('td');
+            nameCell.textContent = name;
+            row.appendChild(nameCell);
+            
+            const valueCell = document.createElement('td');
+            valueCell.textContent = value;
+            if (value.startsWith('-')) {
+                valueCell.className = 'negative';
+            }
+            row.appendChild(valueCell);
+            
+            tableElement.appendChild(row);
+        }
+        
+        // Add table headers
+        const headerRow = document.createElement('tr');
+        const headerItem = document.createElement('th');
+        headerItem.textContent = 'Item';
+        headerRow.appendChild(headerItem);
+        
+        const headerAmount = document.createElement('th');
+        headerAmount.textContent = 'Amount (₹)';
+        headerRow.appendChild(headerAmount);
+        
+        tableElement.appendChild(headerRow);
+        
+        // Revenue section
+        addRow('Revenue', '', 'section-header');
+        
+        // Get operating income accounts
+        const operatingIncome = data.profit_and_loss.accounts.find(
+            account => account.node_name === 'operating_income'
+        );
+        
+        if (operatingIncome && operatingIncome.accounts) {
+            operatingIncome.accounts.forEach(account => {
+                addRow(account.name, account.values[0].total_formatted, 'indent-1');
+            });
+        }
+        
+        // Total Revenue
+        addRow('Total Revenue', operatingIncome.values[0].total_sub_account_formatted, 'total-row');
+        
+        // Cost of Goods Sold
+        const cogs = data.profit_and_loss.accounts.find(
+            account => account.node_name === 'cost_of_goods_sold'
+        );
+        
+        if (cogs) {
+            addRow('Cost of Goods Sold', cogs.values[0].total_sub_account_formatted, 'section-header');
+        }
+        
+        // Gross Profit
+        const grossProfit = data.profit_and_loss.accounts.find(
+            account => account.node_name === 'gross_profit'
+        );
+        
+        if (grossProfit) {
+            addRow('Gross Profit', grossProfit.values[0].total_sub_account_formatted, 'total-row');
+        }
+        
+        // Operating Expenses
+        const operatingExpense = data.profit_and_loss.accounts.find(
+            account => account.node_name === 'operating_expense'
+        );
+        
+        if (operatingExpense) {
+            addRow('Operating Expenses', '', 'section-header');
+            
+            if (operatingExpense.accounts) {
+                operatingExpense.accounts.forEach(account => {
+                    addRow(account.name, account.values[0].total_formatted, 'indent-1');
+                });
+            }
+            
+            addRow('Total Operating Expenses', operatingExpense.values[0].total_sub_account_formatted, 'total-row');
+        }
+        
+        // Operating Profit
+        const operatingProfit = data.profit_and_loss.accounts.find(
+            account => account.node_name === 'operating_profit'
+        );
+        
+        if (operatingProfit) {
+            addRow('Operating Profit', operatingProfit.values[0].total_sub_account_formatted, 'total-row');
+        }
+        
+        // Non-Operating Items
+        const nonOperatingIncome = data.profit_and_loss.accounts.find(
+            account => account.node_name === 'non_operating_income'
+        );
+        
+        const nonOperatingExpense = data.profit_and_loss.accounts.find(
+            account => account.node_name === 'non_operating_expense'
+        );
+        
+        if (nonOperatingIncome || nonOperatingExpense) {
+            addRow('Non-Operating Items', '', 'section-header');
+            
+            if (nonOperatingIncome) {
+                addRow('Non-Operating Income', nonOperatingIncome.values[0].total_sub_account_formatted, 'indent-1');
+            }
+            
+            if (nonOperatingExpense) {
+                addRow('Non-Operating Expense', nonOperatingExpense.values[0].total_sub_account_formatted, 'indent-1');
+            }
+        }
+        
+        // Net Profit/Loss
+        const netProfitLoss = data.profit_and_loss.accounts.find(
+            account => account.node_name === 'net_profit_loss'
+        );
+        
+        if (netProfitLoss) {
+            addRow('Net Profit/Loss', netProfitLoss.values[0].total_sub_account_formatted, 'grand-total');
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,396 @@
+{
+  "code": 0,
+  "message": "success",
+  "profit_and_loss": [
+    {
+      "total": 1272500.0,
+      "previous_values": [],
+      "account_transactions": [
+        {
+          "total": 1272500.0,
+          "total_label": "Total Operating Income",
+          "previous_values": [],
+          "account_transactions": [
+            {
+              "total_sub_account": 0.0,
+              "total": 446500.0,
+              "account_id": "2538476000000000486",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Sales",
+              "previous_total_sub_account": [],
+              "account_code": "",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0.0,
+              "total": 826000.0,
+              "account_id": "2538476000000032099",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Service Revenue",
+              "previous_total_sub_account": [],
+              "account_code": "4010",
+              "is_collapsed_view": false,
+              "previous_total": []
+            }
+          ],
+          "name": "Operating Income",
+          "previous_total": []
+        },
+        {
+          "total": 0.0,
+          "total_label": "Total Cost of Goods Sold",
+          "previous_values": [],
+          "account_transactions": [],
+          "name": "Cost of Goods Sold",
+          "previous_total": []
+        }
+      ],
+      "name": "Gross Profit",
+      "previous_total": []
+    },
+    {
+      "total": -1274875.0,
+      "previous_values": [],
+      "account_transactions": [
+        {
+          "total": 2547375.0,
+          "total_label": "Total Operating Expense",
+          "previous_values": [],
+          "account_transactions": [
+            {
+              "total_sub_account": 0.0,
+              "total": 887300.0,
+              "account_id": "2538476000000032103",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Purchases",
+              "previous_total_sub_account": [],
+              "account_code": "5000",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0.0,
+              "total": 788000.0,
+              "account_id": "2538476000000032109",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Salaries Expense",
+              "previous_total_sub_account": [],
+              "account_code": "6010",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0.0,
+              "total": 406000.0,
+              "account_id": "2538476000000000528",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Rent Expense",
+              "previous_total_sub_account": [],
+              "account_code": "",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0.0,
+              "total": 186475.0,
+              "account_id": "2538476000000032115",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Office Supplies Expense",
+              "previous_total_sub_account": [],
+              "account_code": "6020",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0.0,
+              "total": 178000.0,
+              "account_id": "2538476000000032133",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Consulting Fees",
+              "previous_total_sub_account": [],
+              "account_code": "6100",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0.0,
+              "total": 61500.0,
+              "account_id": "2538476000000032121",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Utilities Expense",
+              "previous_total_sub_account": [],
+              "account_code": "6040",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0.0,
+              "total": 37600.0,
+              "account_id": "2538476000000000516",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Travel Expense",
+              "previous_total_sub_account": [],
+              "account_code": "",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0.0,
+              "total": 2500.0,
+              "account_id": "2538476000000032127",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Bank Charges",
+              "previous_total_sub_account": [],
+              "account_code": "6050",
+              "is_collapsed_view": false,
+              "previous_total": []
+            }
+          ],
+          "name": "Operating Expense",
+          "previous_total": []
+        }
+      ],
+      "name": "Operating Profit",
+      "previous_total": []
+    },
+    {
+      "total": -1274875.0,
+      "previous_values": [],
+      "account_transactions": [
+        {
+          "total": 0.0,
+          "total_label": "Total Non Operating Income",
+          "previous_values": [],
+          "account_transactions": [],
+          "name": "Non Operating Income",
+          "previous_total": []
+        },
+        {
+          "total": 0.0,
+          "total_label": "Total Non Operating Expense",
+          "previous_values": [],
+          "account_transactions": [],
+          "name": "Non Operating Expense",
+          "previous_total": []
+        }
+      ],
+      "name": "Net Profit/Loss",
+      "previous_total": []
+    }
+  ],
+  "page_context": {
+    "can_show_reports_banner": false,
+    "can_schedule": true,
+    "is_inv_txn_job_in_progress": false,
+    "report_basis": "Accrual",
+    "is_already_scheduled": false,
+    "report_type": "profit_and_loss",
+    "applied_filter": "TransactionDate.CustomDate",
+    "from_date": "2024-04-01",
+    "to_date": "2025-02-03",
+    "previous_date_range": [],
+    "cash_based": "false",
+    "chart_type": [
+      {
+        "chart_type_formatted": "Line Chart",
+        "chart_type": "line_chart",
+        "y_axis": [
+          {
+            "field_name_formatted": "Profit and Loss",
+            "group_formatted": "Reports",
+            "field_name": "reports_profit_and_loss_key",
+            "group": "report"
+          },
+          {
+            "field_name_formatted": "Gross Profit",
+            "group_formatted": "Reports",
+            "field_name": "reports_gross_profit_key",
+            "group": "report"
+          },
+          {
+            "field_name_formatted": "Operating Expense",
+            "group_formatted": "Reports",
+            "field_name": "reports_operating_expense_key",
+            "group": "report"
+          },
+          {
+            "field_name_formatted": "Cost of Goods Sold",
+            "group_formatted": "Reports",
+            "field_name": "reports_cost_of_goods_sold_key",
+            "group": "report"
+          },
+          {
+            "field_name_formatted": "Operating Income",
+            "group_formatted": "Reports",
+            "field_name": "reports_operating_income_key",
+            "group": "report"
+          },
+          {
+            "field_name_formatted": "Net Profit/Loss",
+            "group_formatted": "Reports",
+            "field_name": "reports_net_profit_loss_key",
+            "group": "report"
+          },
+          {
+            "field_name_formatted": "Non Operating Income",
+            "group_formatted": "Reports",
+            "field_name": "reports_non_operating_income_key",
+            "group": "report"
+          },
+          {
+            "field_name_formatted": "Non Operating Expense",
+            "group_formatted": "Reports",
+            "field_name": "reports_non_operating_expense_key",
+            "group": "report"
+          },
+          {
+            "field_name_formatted": "Operating Profit",
+            "group_formatted": "Reports",
+            "field_name": "reports_operating_profit_key",
+            "group": "report"
+          }
+        ],
+        "x_axis": [
+          {
+            "field_name_formatted": "Date",
+            "group_formatted": "Reports",
+            "field_name": "value_date",
+            "group": "report"
+          }
+        ]
+      },
+      {
+        "chart_type_formatted": "Bar Chart",
+        "chart_type": "bar_chart",
+        "y_axis": [
+          {
+            "field_name_formatted": "Profit and Loss",
+            "group_formatted": "Reports",
+            "field_name": "reports_profit_and_loss_key",
+            "group": "report"
+          },
+          {
+            "field_name_formatted": "Gross Profit",
+            "group_formatted": "Reports",
+            "field_name": "reports_gross_profit_key",
+            "group": "report"
+          },
+          {
+            "field_name_formatted": "Operating Expense",
+            "group_formatted": "Reports",
+            "field_name": "reports_operating_expense_key",
+            "group": "report"
+          },
+          {
+            "field_name_formatted": "Cost of Goods Sold",
+            "group_formatted": "Reports",
+            "field_name": "reports_cost_of_goods_sold_key",
+            "group": "report"
+          },
+          {
+            "field_name_formatted": "Operating Income",
+            "group_formatted": "Reports",
+            "field_name": "reports_operating_income_key",
+            "group": "report"
+          },
+          {
+            "field_name_formatted": "Net Profit/Loss",
+            "group_formatted": "Reports",
+            "field_name": "reports_net_profit_loss_key",
+            "group": "report"
+          },
+          {
+            "field_name_formatted": "Non Operating Income",
+            "group_formatted": "Reports",
+            "field_name": "reports_non_operating_income_key",
+            "group": "report"
+          },
+          {
+            "field_name_formatted": "Non Operating Expense",
+            "group_formatted": "Reports",
+            "field_name": "reports_non_operating_expense_key",
+            "group": "report"
+          },
+          {
+            "field_name_formatted": "Operating Profit",
+            "group_formatted": "Reports",
+            "field_name": "reports_operating_profit_key",
+            "group": "report"
+          }
+        ],
+        "x_axis": [
+          {
+            "field_name_formatted": "Project",
+            "group_formatted": "Projects",
+            "field_name": "project_ids",
+            "group": "project"
+          },
+          {
+            "field_name_formatted": "Date",
+            "group_formatted": "Reports",
+            "field_name": "value_date",
+            "group": "report"
+          }
+        ]
+      }
+    ],
+    "show_rows": "non_zero",
+    "last_accessed_time_formatted": "18/04/2025 04:44 AM",
+    "filter_by": "TransactionDate.CustomDate",
+    "select_columns": [
+      {
+        "field": "name",
+        "group": "report"
+      },
+      {
+        "field": "account_code",
+        "group": "report"
+      },
+      {
+        "field": "total",
+        "group": "report"
+      }
+    ],
+    "group_by": [
+      {
+        "field": "none",
+        "group": "report"
+      }
+    ],
+    "date_range_label": "",
+    "fifo_scheduler_status": {
+      "is_queue_entry_present": false,
+      "is_job_status_completed": true
+    },
+    "date_range_list": [
+      {
+        "date_range_label": "01 Apr 2024 - 03 Feb 2025",
+        "from_date": "2024-04-01",
+        "to_date": "2025-02-03"
+      }
+    ],
+    "sort_column": "total",
+    "sort_order": "A"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "report_metadata": {
+    "report_type": "profit_and_loss",
+    "from_date": "2024-04-01",
+    "to_date": "2025-02-03",
+    "report_basis": "Accrual",
+    "currency": "Implicit (assumed from values, not specified)"
+  },
+  "summary": {
+    "gross_profit": 1272500.0,
+    "operating_profit": -1274875.0,
+    "net_profit_loss": -1274875.0
+  },
+  "income_details": {
+    "total_operating_income": 1272500.0,
+    "accounts": [
+      {
+        "account_name": "Sales",
+        "account_code": "",
+        "total": 446500.0,
+        "account_id": "2538476000000000486"
+      },
+      {
+        "account_name": "Service Revenue",
+        "account_code": "4010",
+        "total": 826000.0,
+        "account_id": "2538476000000032099"
+      }
+    ]
+  },
+  "cogs_details": {
+    "total_cogs": 0.0,
+    "accounts": []
+  },
+  "expense_details": {
+    "total_operating_expense": 2547375.0,
+    "accounts": [
+      {
+        "account_name": "Purchases",
+        "account_code": "5000",
+        "total": 887300.0,
+        "account_id": "2538476000000032103"
+      },
+      {
+        "account_name": "Salaries Expense",
+        "account_code": "6010",
+        "total": 788000.0,
+        "account_id": "2538476000000032109"
+      },
+      {
+        "account_name": "Rent Expense",
+        "account_code": "",
+        "total": 406000.0,
+        "account_id": "2538476000000000528"
+      },
+      {
+        "account_name": "Office Supplies Expense",
+        "account_code": "6020",
+        "total": 186475.0,
+        "account_id": "2538476000000032115"
+      },
+      {
+        "account_name": "Consulting Fees",
+        "account_code": "6100",
+        "total": 178000.0,
+        "account_id": "2538476000000032133"
+      },
+      {
+        "account_name": "Utilities Expense",
+        "account_code": "6040",
+        "total": 61500.0,
+        "account_id": "2538476000000032121"
+      },
+      {
+        "account_name": "Travel Expense",
+        "account_code": "",
+        "total": 37600.0,
+        "account_id": "2538476000000000516"
+      },
+      {
+        "account_name": "Bank Charges",
+        "account_code": "6050",
+        "total": 2500.0,
+        "account_id": "2538476000000032127"
+      }
+    ]
+  },
+  "non_operating_details": {
+    "total_non_operating_income": 0.0,
+    "income_accounts": [],
+    "total_non_operating_expense": 0.0,
+    "expense_accounts": []
+  },
+  "raw_sections": [
+    {
+      "section_name": "Gross Profit",
+      "total": 1272500.0
+    },
+    {
+      "section_name": "Operating Profit",
+      "total": -1274875.0
+    },
+    {
+      "section_name": "Net Profit/Loss",
+      "total": -1274875.0
+    }
+  ]
+}

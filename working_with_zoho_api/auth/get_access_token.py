@@ -22,7 +22,7 @@ class CallbackHandler(BaseHTTPRequestHandler):
         if 'code' in params:
             self.server.authorization_code = params['code'][0]
             location = params.get('location', [''])[0]
-            accounts_server = params.get('accounts-server', ['https://accounts.zoho.com'])[0]
+            accounts_server = params.get('accounts-server', ['https://accounts.zoho.in'])[0]
             self.server.location = location
             self.server.accounts_server = accounts_server
             
@@ -88,14 +88,14 @@ def main():
     auth_params = {
         "response_type": "code",
         "client_id": client_id,
-        "scope": "AaaServer.profile.Read",  # Adjust scope as needed
+        "scope": "ZohoBooks.fullaccess.all",  # Adjust scope as needed
         "redirect_uri": redirect_url,
         "access_type": "offline",  # To get a refresh token
         "prompt": "consent"  # Force consent screen
     }
     
     # Construct the authorization URL
-    base_auth_url = "https://accounts.zoho.com/oauth/v2/auth"
+    base_auth_url = "https://accounts.zoho.in/oauth/v2/auth"
     auth_url = f"{base_auth_url}?{urlencode(auth_params)}"
     
     print(f"Opening browser for authorization at: {auth_url}")
@@ -125,7 +125,7 @@ def main():
     print(f"User location: {location}")
     
     # Determine the correct accounts server based on location
-    token_base_url = accounts_server if accounts_server else "https://accounts.zoho.com"
+    token_base_url = accounts_server if accounts_server else "https://accounts.zoho.in"
     
     # STEP 2: Exchange Authorization Code for Access Token
     # Now that we have the authorization code, exchange it for an access token
@@ -167,7 +167,7 @@ def main():
     # Shutdown the callback server
     callback_server.shutdown()
 
-def refresh_access_token(refresh_token: str, client_id: str, client_secret: str, accounts_server: str = "https://accounts.zoho.com") -> Optional[Dict]:
+def refresh_access_token(refresh_token: str, client_id: str, client_secret: str, accounts_server: str = "https://accounts.zoho.in") -> Optional[Dict]:
     """
     Refresh the Zoho access token using the refresh token.
     
@@ -283,8 +283,9 @@ def get_valid_access_token() -> Optional[str]:
                 refresh_token=refresh_token,
                 client_id=client_id,
                 client_secret=client_secret,
-                accounts_server=token_data.get('accounts_server', 'https://accounts.zoho.com')
+                accounts_server=token_data.get('accounts_server', 'https://accounts.zoho.in')
             )
+            print(new_token_data)
             
             if new_token_data:
                 return new_token_data.get('access_token')
@@ -301,40 +302,42 @@ def get_valid_access_token() -> Optional[str]:
         return None
 
 if __name__ == "__main__":
-    # Example of refreshing token directly
-    load_dotenv()
+
+    main()
+
+    # load_dotenv()
     
-    client_id = os.getenv("ZOHO_CLIENT_ID")
-    client_secret = os.getenv("ZOHO_CLIENT_SECRET")
+    # client_id = os.getenv("ZOHO_CLIENT_ID")
+    # client_secret = os.getenv("ZOHO_CLIENT_SECRET")
     
-    try:
-        # Try to read existing tokens
-        with open("zoho_tokens.json", 'r') as f:
-            saved_tokens = json.load(f)
-            refresh_token = saved_tokens.get('refresh_token')
+    # try:
+    #     # Try to read existing tokens
+    #     with open("zoho_tokens.json", 'r') as f:
+    #         saved_tokens = json.load(f)
+    #         refresh_token = saved_tokens.get('refresh_token')
             
-            if refresh_token:
-                print("Refreshing access token...")
-                new_token_data = refresh_access_token(
-                    refresh_token=refresh_token,
-                    client_id=client_id,
-                    client_secret=client_secret
-                )
+    #         if refresh_token:
+    #             print("Refreshing access token...")
+    #             new_token_data = refresh_access_token(
+    #                 refresh_token=refresh_token,
+    #                 client_id=client_id,
+    #                 client_secret=client_secret
+    #             )
                 
-                if new_token_data:
-                    print("New access token details:")
-                    print(json.dumps(new_token_data, indent=2))
+    #             if new_token_data:
+    #                 print("New access token details:")
+    #                 print(json.dumps(new_token_data, indent=2))
                     
-                    # Example of getting a valid token
-                    print("\nTesting get_valid_access_token function...")
-                    valid_token = get_valid_access_token()
-                    if valid_token:
-                        print(f"Valid access token obtained: {valid_token[:10]}...")
-            else:
-                print("No refresh token found in saved tokens.")
+    #                 # Example of getting a valid token
+    #                 print("\nTesting get_valid_access_token function...")
+    #                 valid_token = get_valid_access_token()
+    #                 if valid_token:
+    #                     print(f"Valid access token obtained: {valid_token[:10]}...")
+    #         else:
+    #             print("No refresh token found in saved tokens.")
                 
-    except FileNotFoundError:
-        print("No saved tokens found. Please run the authorization flow first.")
-    except Exception as e:
-        print(f"Error: {str(e)}")
+    # except FileNotFoundError:
+    #     print("No saved tokens found. Please run the authorization flow first.")
+    # except Exception as e:
+    #     print(f"Error: {str(e)}")
 
