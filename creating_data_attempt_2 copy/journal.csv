@@ -1,0 +1,24 @@
+Date,Reference Number,Notes,Debit Account,Debit Amount,Credit Account,Credit Amount
+01-04-2024,JV-OPN-001,"Initial Capital Introduced",HDFC Bank A/C XXXX1234,1000000,Share Capital,1000000
+30-04-2024,JV-SAL-APR,"Accrue & Pay April Salaries (Combined)",Salaries and Wages,250000,HDFC Bank A/C XXXX1234,250000
+31-05-2024,JV-SAL-MAY,"Accrue & Pay May Salaries (Combined)",Salaries and Wages,255000,HDFC Bank A/C XXXX1234,255000
+30-06-2024,JV-SAL-JUN,"Accrue & Pay June Salaries (Combined)",Salaries and Wages,260000,HDFC Bank A/C XXXX1234,260000
+30-06-2024,JV-PREPAID-INS,"Record prepaid Insurance (assuming paid Sep)",Prepaid Expenses,35000,Insurance Expense,35000
+30-06-2024,JV-INS-EXP-Q1,"Expense 3 months insurance (Apr-Jun of 12 months)",Insurance Expense,8750,Prepaid Expenses,8750
+31-07-2024,JV-SAL-JUL,"Accrue & Pay July Salaries (Combined)",Salaries and Wages,265000,HDFC Bank A/C XXXX1234,265000
+31-08-2024,JV-SAL-AUG,"Accrue & Pay Aug Salaries (Combined)",Salaries and Wages,270000,HDFC Bank A/C XXXX1234,270000
+30-09-2024,JV-SAL-SEP,"Accrue & Pay Sep Salaries (Combined)",Salaries and Wages,275000,HDFC Bank A/C XXXX1234,275000
+30-09-2024,JV-INS-EXP-Q2,"Expense 3 months insurance (Jul-Sep of 12 months)",Insurance Expense,8750,Prepaid Expenses,8750
+31-10-2024,JV-SAL-OCT,"Accrue & Pay Oct Salaries (Combined)",Salaries and Wages,280000,HDFC Bank A/C XXXX1234,280000
+30-11-2024,JV-SAL-NOV,"Accrue & Pay Nov Salaries (Combined)",Salaries and Wages,285000,HDFC Bank A/C XXXX1234,285000
+31-12-2024,JV-SAL-DEC,"Accrue & Pay Dec Salaries (Combined)",Salaries and Wages,290000,HDFC Bank A/C XXXX1234,290000
+31-12-2024,JV-INS-EXP-Q3,"Expense 3 months insurance (Oct-Dec of 12 months)",Insurance Expense,8750,Prepaid Expenses,8750
+31-01-2025,JV-SAL-JAN,"Accrue & Pay Jan Salaries (Combined)",Salaries and Wages,295000,HDFC Bank A/C XXXX1234,295000
+28-02-2025,JV-SAL-FEB,"Accrue & Pay Feb Salaries (Combined)",Salaries and Wages,300000,HDFC Bank A/C XXXX1234,300000
+31-03-2025,JV-SAL-MAR,"Accrue & Pay Mar Salaries (Combined)",Salaries and Wages,305000,HDFC Bank A/C XXXX1234,305000
+31-03-2025,JV-INS-EXP-Q4,"Expense 3 months insurance (Jan-Mar of 12 months)",Insurance Expense,8750,Prepaid Expenses,8750
+31-03-2025,JV-DEP-001,"Annual Depreciation Office Equipment",Depreciation Expense,50000,Accumulated Depreciation,50000
+31-03-2025,JV-GST-SETTLE,"Quarterly GST settlement simulation (simplified)",CGST Payable,150000,Input CGST,120000
+31-03-2025,JV-GST-SETTLE,"Quarterly GST settlement simulation (simplified)",SGST Payable,150000,Input SGST,120000
+31-03-2025,JV-GST-SETTLE,"Quarterly GST settlement simulation (simplified)",IGST Payable,200000,Input IGST,180000
+31-03-2025,JV-GST-PAY,"Simulated Net GST Payment for Q4",GST Payable,80000,HDFC Bank A/C XXXX1234,80000

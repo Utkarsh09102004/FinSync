@@ -1,10 +1,10 @@
 {
-  "access_token": "1000.0a2993019fff9fe3919239fe7d829dfc.174e3fbc6b76491d4b5a37c5573bde12",
-  "refresh_token": "1000.8fc539227f66a6e520906e1f94c5e6fd.ecb5d79d3016f699f155dfc077a9debd",
+  "access_token": "1000.d261e25fecb5215587b356d359eba23d.609f246cbebfeccda0be3cf12001b0c0",
+  "refresh_token": "1000.f692b043268c3b83b2fa3fa85f8e806e.19295a77d0b32575ec3a83694d8af53f",
   "scope": "ZohoBooks.fullaccess.all",
   "api_domain": "https://www.zohoapis.in",
   "token_type": "Bearer",
   "expires_in": 3600,
-  "refresh_time": "2025-05-02T18:32:05.549334",
-  "expires_at": "2025-05-02T19:32:05.549353"
+  "refresh_time": "2025-06-11T19:26:27.405020",
+  "expires_at": "2025-06-11T20:26:27.405033"
 }

@@ -180,7 +180,7 @@ def fetch_profit_and_loss(organization_id=None, from_date="2024-04-01", to_date=
         "organization_id": organization_id,
         "cash_based": "false",
         "filter_by": "TransactionDate.CustomDate",
-        "from_date": from_date,
+        # "from_date": from_date,
         "to_date": to_date,
         "show_rows": "non_zero",
         "sort_column": "total",

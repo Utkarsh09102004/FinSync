@@ -1,0 +1,61 @@
+Vendor Name,Bill Date,Bill Number,Due Date,Place of Supply,Item Name,Account,Quantity,Rate,HSN/SAC Code
+Omega Suppliers,2024-04-05,OS-101,2024-04-20,Maharashtra,Laptop Model X,Purchases,2,55000,847130
+Epsilon Office Needs,2024-04-10,EON-B05,2024-04-25,Delhi,Office Stationery Set,Office Supplies Expense,10,350,960810
+Zeta Hardware Mart,2024-04-18,ZHM-INV-2401,2024-05-03,Karnataka,Printer Cartridge,Office Supplies Expense,5,900,844399
+Anil Kumar Freelancer,2024-05-02,AKF-01,2024-05-17,Telangana,Web Development Service,Consulting Fees,1,30000,998314
+Omega Suppliers,2024-05-15,OS-125,2024-05-30,Maharashtra,Laptop Model X,Purchases,1,55000,847130
+Epsilon Office Needs,2024-06-08,EON-B21,2024-06-23,Delhi,Office Stationery Set,Office Supplies Expense,20,350,960810
+Anil Kumar Freelancer,2024-06-20,AKF-02,2024-07-05,Telangana,Graphic Design Package,Consulting Fees,1,8000,998313
+Zeta Hardware Mart,2024-07-11,ZHM-INV-2488,2024-07-26,Karnataka,Printer Cartridge,Office Supplies Expense,10,900,844399
+Omega Suppliers,2024-07-25,OS-150,2024-08-09,Maharashtra,Laptop Model X,Purchases,3,55000,847130
+Anil Kumar Freelancer,2024-08-15,AKF-03,2024-08-30,Telangana,IT Support - Monthly Retainer,Consulting Fees,1,15000,998315
+Epsilon Office Needs,2024-08-28,EON-B35,2024-09-12,Delhi,Office Stationery Set,Office Supplies Expense,15,350,960810
+Omega Suppliers,2024-09-10,OS-172,2024-09-25,Maharashtra,Laptop Model X,Purchases,1,55500,847130
+Anil Kumar Freelancer,2024-09-22,AKF-04,2024-10-07,Telangana,Web Development Service,Consulting Fees,1,32000,998314
+Zeta Hardware Mart,2024-10-05,ZHM-INV-2550,2024-10-20,Karnataka,Printer Cartridge,Office Supplies Expense,8,920,844399
+Epsilon Office Needs,2024-10-18,EON-B48,2024-11-02,Delhi,Office Stationery Set,Office Supplies Expense,25,360,960810
+Omega Suppliers,2024-11-05,OS-199,2024-11-20,Maharashtra,Laptop Model X,Purchases,2,55500,847130
+Anil Kumar Freelancer,2024-11-15,AKF-05,2024-11-30,Telangana,IT Support - Monthly Retainer,Consulting Fees,1,15000,998315
+Epsilon Office Needs,2024-11-28,EON-B60,2024-12-13,Delhi,Office Stationery Set,Office Supplies Expense,10,360,960810
+Zeta Hardware Mart,2024-12-04,ZHM-INV-2610,2024-12-19,Karnataka,Printer Cartridge,Office Supplies Expense,6,920,844399
+Omega Suppliers,2024-12-18,OS-215,2025-01-02,Maharashtra,Laptop Model X,Purchases,1,56000,847130
+Anil Kumar Freelancer,2025-01-06,AKF-06,2025-01-21,Telangana,Graphic Design Package,Consulting Fees,1,8500,998313
+Epsilon Office Needs,2025-01-15,EON-B72,2025-01-30,Delhi,Office Stationery Set,Office Supplies Expense,20,370,960810
+Zeta Hardware Mart,2025-01-25,ZHM-INV-2680,2025-02-09,Karnataka,Printer Cartridge,Office Supplies Expense,10,930,844399
+Omega Suppliers,2025-02-03,OS-230,2025-02-18,Maharashtra,Laptop Model X,Purchases,2,56000,847130
+Anil Kumar Freelancer,2025-02-14,AKF-07,2025-02-29,Telangana,IT Support - Monthly Retainer,Consulting Fees,1,16000,998315
+Epsilon Office Needs,2025-02-26,EON-B85,2025-03-13,Delhi,Office Stationery Set,Office Supplies Expense,15,370,960810
+Zeta Hardware Mart,2025-03-05,ZHM-INV-2750,2025-03-20,Karnataka,Printer Cartridge,Office Supplies Expense,5,930,844399
+Omega Suppliers,2025-03-12,OS-245,2025-03-27,Maharashtra,Laptop Model X,Purchases,1,56500,847130
+Anil Kumar Freelancer,2025-03-20,AKF-08,2025-04-04,Telangana,Web Development Service,Consulting Fees,1,33000,998314
+Epsilon Office Needs,2025-03-28,EON-B98,2025-04-12,Delhi,Office Stationery Set,Office Supplies Expense,10,370,960810
+Omega Suppliers,2024-04-22,OS-110,2024-05-07,Maharashtra,Printer Cartridge,Office Supplies Expense,10,900,844399
+Zeta Hardware Mart,2024-05-08,ZHM-INV-2420,2024-05-23,Karnataka,Office Stationery Set,Office Supplies Expense,12,355,960810
+Epsilon Office Needs,2024-05-20,EON-B15,2024-06-04,Delhi,Laptop Model X,Purchases,1,55200,847130
+Anil Kumar Freelancer,2024-06-11,AKF-01B,2024-06-26,Telangana,Cloud Hosting - Annual,Consulting Fees,1,9000,998315
+Omega Suppliers,2024-06-28,OS-138,2024-07-13,Maharashtra,Office Stationery Set,Office Supplies Expense,20,355,960810
+Zeta Hardware Mart,2024-07-19,ZHM-INV-2505,2024-08-03,Karnataka,Laptop Model X,Purchases,1,55800,847130
+Epsilon Office Needs,2024-08-09,EON-B29,2024-08-24,Delhi,Printer Cartridge,Office Supplies Expense,15,910,844399
+Anil Kumar Freelancer,2024-08-26,AKF-03B,2024-09-10,Telangana,Graphic Design Package,Consulting Fees,1,8200,998313
+Omega Suppliers,2024-09-16,OS-180,2024-10-01,Maharashtra,Printer Cartridge,Office Supplies Expense,10,915,844399
+Zeta Hardware Mart,2024-10-01,ZHM-INV-2565,2024-10-16,Karnataka,Office Stationery Set,Office Supplies Expense,25,360,960810
+Epsilon Office Needs,2024-10-14,EON-B42,2024-10-29,Delhi,Laptop Model X,Purchases,1,55800,847130
+Anil Kumar Freelancer,2024-10-28,AKF-04B,2024-11-12,Telangana,Cloud Hosting - Annual,Consulting Fees,1,9500,998315
+Omega Suppliers,2024-11-11,OS-205,2024-11-26,Maharashtra,Office Stationery Set,Office Supplies Expense,15,365,960810
+Zeta Hardware Mart,2024-11-25,ZHM-INV-2625,2024-12-10,Karnataka,Laptop Model X,Purchases,1,56000,847130
+Epsilon Office Needs,2024-12-09,EON-B65,2024-12-24,Delhi,Printer Cartridge,Office Supplies Expense,20,925,844399
+Anil Kumar Freelancer,2024-12-23,AKF-05B,2025-01-07,Telangana,Graphic Design Package,Consulting Fees,1,8800,998313
+Omega Suppliers,2025-01-10,OS-222,2025-01-25,Maharashtra,Printer Cartridge,Office Supplies Expense,12,930,844399
+Zeta Hardware Mart,2025-01-21,ZHM-INV-2700,2025-02-05,Karnataka,Office Stationery Set,Office Supplies Expense,30,370,960810
+Epsilon Office Needs,2025-02-06,EON-B78,2025-02-21,Delhi,Laptop Model X,Purchases,1,56200,847130
+Anil Kumar Freelancer,2025-02-19,AKF-07B,2025-03-06,Telangana,Cloud Hosting - Annual,Consulting Fees,1,10000,998315
+Omega Suppliers,2025-03-04,OS-238,2025-03-19,Maharashtra,Office Stationery Set,Office Supplies Expense,18,375,960810
+Zeta Hardware Mart,2025-03-14,ZHM-INV-2770,2025-03-29,Karnataka,Laptop Model X,Purchases,1,56500,847130
+Epsilon Office Needs,2025-03-24,EON-B91,2025-04-08,Delhi,Printer Cartridge,Office Supplies Expense,10,935,844399
+Anil Kumar Freelancer,2025-03-29,AKF-08B,2025-04-13,Telangana,Graphic Design Package,Consulting Fees,1,9000,998313
+Connect Telecom,2024-04-10,CT-APR24,2024-04-20,West Bengal,Utilities Expense,Utilities Expense,1,3500,
+Connect Telecom,2024-05-10,CT-MAY24,2024-05-20,West Bengal,Utilities Expense,Utilities Expense,1,3650,
+Connect Telecom,2024-06-10,CT-JUN24,2024-06-20,West Bengal,Utilities Expense,Utilities Expense,1,3800,
+Connect Telecom,2024-07-10,CT-JUL24,2024-07-20,West Bengal,Utilities Expense,Utilities Expense,1,3750,
+Connect Telecom,2024-08-10,CT-AUG24,2024-08-20,West Bengal,Utilities Expense,Utilities Expense,1,3900,
+Connect Telecom,2024-09-10,CT-SEP24,2024-09-20,West Bengal,Utilities Expense,Utilities Expense,1,3850,
