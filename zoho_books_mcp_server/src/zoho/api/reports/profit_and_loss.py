@@ -2,13 +2,27 @@ import os
 import requests
 import json
 from dotenv import load_dotenv
-import sys
-import os.path
 from typing import Dict, Any, List, Optional
 
-# Add parent directory to path to import get_access_token
-sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-from auth.get_access_token import get_valid_access_token
+# Handle both package import and direct execution
+try:
+    from ...auth.token_manager import get_valid_access_token
+except ImportError:
+    import sys
+    import os
+    # Get the path to the zoho_books_mcp_server directory
+    current_file = os.path.abspath(__file__)
+    reports_dir = os.path.dirname(current_file)
+    api_dir = os.path.dirname(reports_dir)
+    zoho_dir = os.path.dirname(api_dir)
+    src_dir = os.path.dirname(zoho_dir)
+    server_root = os.path.dirname(src_dir)
+    
+    # Add parent of zoho_books_mcp_server to path
+    sys.path.insert(0, os.path.dirname(server_root))
+    
+    # Now import using the full path from FinSync directory
+    from zoho_books_mcp_server.src.zoho.auth.token_manager import get_valid_access_token
 
 # --- New Recursive Extraction Logic ---
 def extract_pnl_data(pnl_json_data):
@@ -150,7 +164,7 @@ def fetch_profit_and_loss(organization_id=None, from_date="2024-04-01", to_date=
     Returns:
         dict: Formatted profit and loss data
     """
-    # Load environment variables
+
     load_dotenv()
     
     # Get organization ID from environment variables if not provided
